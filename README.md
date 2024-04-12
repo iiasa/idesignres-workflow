@@ -51,3 +51,17 @@ about the **pyam** package for scenario analysis and data visualization.
 **Important**: Do not change the name of the module `workflow.py` or the function `main`
 as they are called like this by the Job Execution Service. Details can be found
 [here](https://wiki.ece.iiasa.ac.at/wiki/index.php/Scenario_Explorer/Setup#Job_Execution_Service).
+
+## Related projects
+
+<img src="_static/openENTRANCE-logo.png" height="64" align="right" alt="openENTRANCE logo" />
+<img src="_static/ECEMF-logo.png" height="64" align="right" alt="ECEMF logo" />
+
+This project builds on the work in the Horizon 2020 projects openENTRANCE and ECEMF.  
+Visit https://github.com/openENTRANCE/openentrance for more information!
+
+## Funding acknowledgement
+
+<img src="./_static/EU-logo-300x201.jpg" width="80" height="54" align="left" alt="EU logo" />
+This project has received funding from the European Union’s <b>Horizon Europe</b> research
+and innovation programme under grant agreement No. 101095849 (<b>iDesignRES</b>).
