@@ -1,4 +1,4 @@
-# Scenario Explorer Workflow Template
+# iDesignRES Scenario Processing Workflow
 
 Copyright 2024 IIASA and the iDesignRES consortium
 
@@ -9,15 +9,19 @@ This work is licensed under <a href="http://creativecommons.org/licenses/by/4.0/
 
 ## Overview
 
-This is a template for project-specific scenario processing workflows.
+<img src="./_static/idesignRES-logo.png" height="120" align="right" alt="ECEMF logo" />
 
-To use this template for a project, do the following:
-- Create a new repository from this template
-- Update the title and overview section of this Readme
-- Start adding definitions and mappings 
-- If you want to use the [common-definitions](https://github.com/IAMconsortium/common-definitions)
-  developed and maintained by the IAMC, rename the file `nomenclature_template.yaml`
-  to `nomenclature.yaml`.
+The Horizon Europe project **iDesignRES** offers state-of-the-art open-source toolboxes
+empowering public authorities and network operators to plan and optimise renewable
+energy systems from regional to European scales.
+
+Visit https://idesignres.eu for more information about the project!
+
+## Using this repository
+
+This workflow repository includes the workflow for scenario processing and validation
+using the database infrastructure developed by the IIASA Scenario Services &
+Scientific Software team. Read more at https://docs.ece.iiasa.ac.at!
 
 ### Project nomenclature
 
