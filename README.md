@@ -9,7 +9,7 @@ This work is licensed under <a href="http://creativecommons.org/licenses/by/4.0/
 
 ## Overview
 
-<img src="./_static/idesignRES-logo.png" height="120" align="right" alt="ECEMF logo" />
+<img src="./_static/idesignres-logo.png" height="120" align="right" alt="iDesignRES logo" />
 
 The Horizon Europe project **iDesignRES** offers state-of-the-art open-source toolboxes
 empowering public authorities and network operators to plan and optimise renewable
