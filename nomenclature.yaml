@@ -6,6 +6,7 @@ repositories:
     url: https://github.com/IAMconsortium/common-definitions.git/
 definitions:
   variable:
-    repository: common-definitions
-    exclude:
-      - name: "Price|Carbon"
+    repository:
+      name: common-definitions
+      exclude:
+        - name: Price|Carbon
