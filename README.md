@@ -23,9 +23,13 @@ This workflow repository includes the workflow for scenario processing and valid
 using the database infrastructure developed by the IIASA Scenario Services &
 Scientific Software team. Read more at https://docs.ece.iiasa.ac.at!
 
+The project mostly uses the variables from the [common-definitions](https://github.com/IAMconsortium/common-definitions)
+repository, an initiative by the IAMC to develop a shared list of definitions across projects.
+to faciliate interoperability and reuse of scenario data.
+
 ### Project nomenclature
 
-The folder `definitions` can contain the project nomenclature, i.e., list of allowed
+The folder `definitions` can contain the project-specific codelists, i.e., list of allowed
 variables and regions, for use in the validation workflow. See the **nomenclature**
 package for more information ([link](https://github.com/iamconsortium/nomenclature)).
 
