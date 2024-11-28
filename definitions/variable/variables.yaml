@@ -1,3 +1,7 @@
-- Emissions|CO2:
-    description: Total net emissions of carbon dioxide (CO2)
-    unit: Mt CO2/yr
+# This file provides variables with different units compared to "common-definitions"
+- Price|Carbon:
+    description: Price of carbon
+    unit: EUR_2020/t CO2
+    tier: 1
+    drop_negative_weights: false
+    weight: Emissions|CO2

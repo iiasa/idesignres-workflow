@@ -1,8 +1,12 @@
+dimensions:
+  - variable
+  - region
 repositories:
   common-definitions:
     url: https://github.com/IAMconsortium/common-definitions.git/
 definitions:
   variable:
-    repository: common-definitions
-  region:
-    repository: common-definitions
+    repository:
+      name: common-definitions
+      exclude:
+        - name: Price|Carbon

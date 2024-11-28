@@ -1,0 +1,35 @@
+- European Regions:
+
+  # generic definitions of Europe
+  - Europe (excl. Turkey)
+  - Europe (incl. Turkey)
+
+  # definitions of European regions and groups of countries
+  - EU27 & UK:
+      description: European Union and the United Kingdom (formerly EU28)
+      countries: [
+        Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland,
+        France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg,
+        Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain,
+        Sweden, United Kingdom
+      ]
+  - EU27:
+      countries: [
+        Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland,
+        France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg,
+        Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden
+      ]
+  - EU27 (excl. Malta & Cyprus):
+      countries: [
+        Austria, Belgium, Bulgaria, Croatia, Czechia, Denmark, Estonia, Finland, France,
+        Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg,
+        Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden
+      ]
+  - EFTA:
+      description: European Free Trade Association
+      countries: [Iceland, Liechtenstein, Norway, Switzerland]
+      source: https://en.wikipedia.org/wiki/European_Free_Trade_Association
+  - Non-EU-Balkans:
+      countries: [
+        Albania, Bosnia and Herzegovina, Montenegro, North Macedonia, Serbia, Kosovo
+      ]
