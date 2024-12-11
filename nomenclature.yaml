@@ -10,3 +10,4 @@ definitions:
       name: common-definitions
       exclude:
         - name: Price|Carbon
+illegal_characters: [ ]
