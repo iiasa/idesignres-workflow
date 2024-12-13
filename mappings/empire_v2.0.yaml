@@ -311,7 +311,7 @@ common_regions:
       - Spain
       - Sweden
       - United Kingdom
-  - EU27:
+  - EU27 (excl. Malta & Cyprus):
       - Austria
       - Belgium
       - Bulgaria
