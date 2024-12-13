@@ -33,3 +33,7 @@
       countries: [
         Albania, Bosnia and Herzegovina, Montenegro, North Macedonia, Serbia, Kosovo
       ]
+  - North Sea:
+    description: Offshore nodes in the North Sea
+    regions: [Moray Firth, Firth of Forth, Dogger Bank, Hornsea, Outer Dowsing, Norfolk, East Anglia, 
+    Borssele, Hollandsee Kust, Helgolander Bucht, Nordsoen, Utsira Nord, Sorlige Nordsjo I, Sorlige Nordsjo II]
