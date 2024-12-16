@@ -1,0 +1,192 @@
+# allow directional connections explicitly
+- Austria>Czechia
+- Austria>Germany
+- Austria>Hungary
+- Austria>Italy
+- Austria>Slovakia
+- Austria>Slovenia
+- Austria>Switzerland
+- Belgium>North Sea|Borssele
+- Belgium>France
+- Belgium>Germany
+- Belgium>United Kingdom
+- Belgium>North Sea|Hollandsee Kust
+- Belgium>Luxembourg
+- Belgium>Netherlands
+- North Sea|Borssele>Belgium
+- North Sea|Borssele>North Sea|Helgolander Bucht
+- North Sea|Borssele>North Sea|Hollandsee Kust
+- North Sea|Borssele>North Sea|Nordsoen
+- North Sea|Borssele>North Sea|Sorlige Nordsjo I
+- North Sea|Borssele>North Sea|Sorlige Nordsjo II
+- North Sea|Borssele>North Sea|Utsira Nord
+- Bosnia and Herzegovina>Croatia
+- Bosnia and Herzegovina>Italy
+- Bosnia and Herzegovina>Serbia
+- Bulgaria>Greece
+- Bulgaria>Macedonia
+- Bulgaria>Romania
+- Bulgaria>Serbia
+- Croatia>Hungary
+- Croatia>Italy
+- Croatia>Serbia
+- Croatia>Slovenia
+- Czechia>Germany
+- Czechia>Poland
+- Czechia>Slovakia
+- Denmark>United Kingdom
+- Denmark>Netherlands
+- Denmark>NO2
+- Denmark>North Sea|Nordsoen
+- Denmark>Poland
+- Denmark>Sweden
+- North Sea|Dogger Bank>North Sea|Borssele
+- North Sea|Dogger Bank>North Sea|East Anglia
+- North Sea|Dogger Bank>North Sea|Helgolander Bucht
+- North Sea|Dogger Bank>North Sea|Hollandsee Kust
+- North Sea|Dogger Bank>North Sea|Hornsea
+- North Sea|Dogger Bank>North Sea|Nordsoen
+- North Sea|Dogger Bank>North Sea|Norfolk
+- North Sea|Dogger Bank>North Sea|Outer Dowsing
+- North Sea|Dogger Bank>North Sea|Sorlige Nordsjo I
+- North Sea|Dogger Bank>North Sea|Sorlige Nordsjo II
+- North Sea|Dogger Bank>North Sea|Utsira Nord
+- North Sea|East Anglia>North Sea|Borssele
+- North Sea|East Anglia>North Sea|Helgolander Bucht
+- North Sea|East Anglia>North Sea|Hollandsee Kust
+- North Sea|East Anglia>North Sea|Nordsoen
+- North Sea|East Anglia>North Sea|Sorlige Nordsjo I
+- North Sea|East Anglia>North Sea|Sorlige Nordsjo II
+- North Sea|East Anglia>North Sea|Utsira Nord
+- Estonia>Finland
+- Estonia>Latvia
+- Estonia>Sweden
+- Finland>NO4
+- Finland>Sweden
+- North Sea|Firth of Forth>North Sea|Borssele
+- North Sea|Firth of Forth>North Sea|Dogger Bank
+- North Sea|Firth of Forth>North Sea|East Anglia
+- North Sea|Firth of Forth>North Sea|Helgolander Bucht
+- North Sea|Firth of Forth>North Sea|Hollandsee Kust
+- North Sea|Firth of Forth>North Sea|Hornsea
+- North Sea|Firth of Forth>North Sea|Nordsoen
+- North Sea|Firth of Forth>North Sea|Norfolk
+- North Sea|Firth of Forth>North Sea|Outer Dowsing
+- North Sea|Firth of Forth>North Sea|Sorlige Nordsjo I
+- North Sea|Firth of Forth>North Sea|Sorlige Nordsjo II
+- North Sea|Firth of Forth>North Sea|Utsira Nord
+- France>United Kingdom
+- France>Ireland
+- France>Italy
+- France>Luxembourg
+- Germany>Denmark
+- Germany>France
+- Germany>North Sea|Helgolander Bucht
+- Germany>Luxembourg
+- Germany>Netherlands
+- Germany>NO2
+- Germany>Poland
+- Germany>Sweden
+- United Kingdom>North Sea|Dogger Bank
+- United Kingdom>North Sea|East Anglia
+- United Kingdom>North Sea|Firth of Forth
+- United Kingdom>North Sea|Hornsea
+- United Kingdom>Ireland
+- United Kingdom>North Sea|Moray Firth
+- United Kingdom>Netherlands
+- United Kingdom>NO2
+- United Kingdom>NO5
+- United Kingdom>North Sea|Norfolk
+- United Kingdom>North Sea|Outer Dowsing
+- Greece>Italy
+- Greece>Macedonia
+- North Sea|Helgolander Bucht>North Sea|Nordsoen
+- North Sea|Helgolander Bucht>North Sea|Sorlige Nordsjo I
+- North Sea|Helgolander Bucht>North Sea|Sorlige Nordsjo II
+- North Sea|Helgolander Bucht>North Sea|Utsira Nord
+- North Sea|Hollandsee Kust>North Sea|Helgolander Bucht
+- North Sea|Hollandsee Kust>North Sea|Nordsoen
+- North Sea|Hollandsee Kust>North Sea|Sorlige Nordsjo I
+- North Sea|Hollandsee Kust>North Sea|Sorlige Nordsjo II
+- North Sea|Hollandsee Kust>North Sea|Utsira Nord
+- North Sea|Hornsea>North Sea|Borssele
+- North Sea|Hornsea>North Sea|East Anglia
+- North Sea|Hornsea>North Sea|Helgolander Bucht
+- North Sea|Hornsea>North Sea|Hollandsee Kust
+- North Sea|Hornsea>North Sea|Nordsoen
+- North Sea|Hornsea>North Sea|Norfolk
+- North Sea|Hornsea>North Sea|Outer Dowsing
+- North Sea|Hornsea>North Sea|Sorlige Nordsjo I
+- North Sea|Hornsea>North Sea|Sorlige Nordsjo II
+- North Sea|Hornsea>North Sea|Utsira Nord
+- Hungary>Romania
+- Hungary>Serbia
+- Hungary>Slovakia
+- Hungary>Slovenia
+- Italy>Slovenia
+- Latvia>Sweden
+- Lithuania>Latvia
+- Lithuania>Poland
+- Lithuania>Sweden
+- Macedonia>Serbia
+- North Sea|Moray Firth>North Sea|Borssele
+- North Sea|Moray Firth>North Sea|Dogger Bank
+- North Sea|Moray Firth>North Sea|East Anglia
+- North Sea|Moray Firth>North Sea|Firth of Forth
+- North Sea|Moray Firth>North Sea|Helgolander Bucht
+- North Sea|Moray Firth>North Sea|Hollandsee Kust
+- North Sea|Moray Firth>North Sea|Hornsea
+- North Sea|Moray Firth>North Sea|Nordsoen
+- North Sea|Moray Firth>North Sea|Norfolk
+- North Sea|Moray Firth>North Sea|Outer Dowsing
+- North Sea|Moray Firth>North Sea|Sorlige Nordsjo I
+- North Sea|Moray Firth>North Sea|Sorlige Nordsjo II
+- North Sea|Moray Firth>North Sea|Utsira Nord
+- Netherlands>North Sea|Borssele
+- Netherlands>North Sea|Helgolander Bucht
+- Netherlands>North Sea|Hollandsee Kust
+- Netherlands>NO2
+- NO1>NO2
+- NO1>NO3
+- NO1>NO5
+- NO1>Sweden
+- NO2>NO5
+- NO2>North Sea|Sorlige Nordsjo I
+- NO2>North Sea|Sorlige Nordsjo II
+- NO2>North Sea|Utsira Nord
+- NO3>NO4
+- NO3>NO5
+- NO3>Sweden
+- NO4>Sweden
+- North Sea|Nordsoen>North Sea|Sorlige Nordsjo I
+- North Sea|Nordsoen>North Sea|Sorlige Nordsjo II
+- North Sea|Nordsoen>North Sea|Utsira Nord
+- North Sea|Norfolk>North Sea|Borssele
+- North Sea|Norfolk>North Sea|East Anglia
+- North Sea|Norfolk>North Sea|Helgolander Bucht
+- North Sea|Norfolk>North Sea|Hollandsee Kust
+- North Sea|Norfolk>North Sea|Nordsoen
+- North Sea|Norfolk>North Sea|Sorlige Nordsjo I
+- North Sea|Norfolk>North Sea|Sorlige Nordsjo II
+- North Sea|Norfolk>North Sea|Utsira Nord
+- North Sea|Outer Dowsing>North Sea|Borssele
+- North Sea|Outer Dowsing>North Sea|East Anglia
+- North Sea|Outer Dowsing>North Sea|Helgolander Bucht
+- North Sea|Outer Dowsing>North Sea|Hollandsee Kust
+- North Sea|Outer Dowsing>North Sea|Nordsoen
+- North Sea|Outer Dowsing>North Sea|Norfolk
+- North Sea|Outer Dowsing>North Sea|Sorlige Nordsjo I
+- North Sea|Outer Dowsing>North Sea|Sorlige Nordsjo II
+- North Sea|Outer Dowsing>North Sea|Utsira Nord
+- Poland>Slovakia
+- Poland>Sweden
+- Romania>Serbia
+- North Sea|Sorlige Nordsjo I>North Sea|Sorlige Nordsjo II
+- Spain>France
+- Spain>Ireland
+- Spain>Portugal
+- Switzerland>France
+- Switzerland>Germany
+- Switzerland>Italy
+- North Sea|Utsira Nord>North Sea|Sorlige Nordsjo I
+- North Sea|Utsira Nord>North Sea|Sorlige Nordsjo II
