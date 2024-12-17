@@ -36,7 +36,7 @@
 - Czechia>Slovakia
 - Denmark>United Kingdom
 - Denmark>Netherlands
-- Denmark>NO2
+- Denmark>Norway|Sorland
 - Denmark>North Sea|Nordsoen
 - Denmark>Poland
 - Denmark>Sweden
@@ -61,7 +61,7 @@
 - Estonia>Finland
 - Estonia>Latvia
 - Estonia>Sweden
-- Finland>NO4
+- Finland>Norway|Troms
 - Finland>Sweden
 - North Sea|Firth of Forth>North Sea|Borssele
 - North Sea|Firth of Forth>North Sea|Dogger Bank
@@ -84,7 +84,7 @@
 - Germany>North Sea|Helgolander Bucht
 - Germany>Luxembourg
 - Germany>Netherlands
-- Germany>NO2
+- Germany>Norway|Sorland
 - Germany>Poland
 - Germany>Sweden
 - United Kingdom>North Sea|Dogger Bank
@@ -94,8 +94,8 @@
 - United Kingdom>Ireland
 - United Kingdom>North Sea|Moray Firth
 - United Kingdom>Netherlands
-- United Kingdom>NO2
-- United Kingdom>NO5
+- United Kingdom>Norway|Sorland
+- United Kingdom>Norway|Vestmidt
 - United Kingdom>North Sea|Norfolk
 - United Kingdom>North Sea|Outer Dowsing
 - Greece>Italy
@@ -145,19 +145,19 @@
 - Netherlands>North Sea|Borssele
 - Netherlands>North Sea|Helgolander Bucht
 - Netherlands>North Sea|Hollandsee Kust
-- Netherlands>NO2
-- NO1>NO2
-- NO1>NO3
-- NO1>NO5
-- NO1>Sweden
-- NO2>NO5
-- NO2>North Sea|Sorlige Nordsjo I
-- NO2>North Sea|Sorlige Nordsjo II
-- NO2>North Sea|Utsira Nord
-- NO3>NO4
-- NO3>NO5
-- NO3>Sweden
-- NO4>Sweden
+- Netherlands>Norway|Sorland
+- Norway|Ostland>Norway|Sorland
+- Norway|Ostland>Norway|Norgemidt
+- Norway|Ostland>Norway|Vestmidt
+- Norway|Ostland>Sweden
+- Norway|Sorland>Norway|Vestmidt
+- Norway|Sorland>North Sea|Sorlige Nordsjo I
+- Norway|Sorland>North Sea|Sorlige Nordsjo II
+- Norway|Sorland>North Sea|Utsira Nord
+- Norway|Norgemidt>Norway|Troms
+- Norway|Norgemidt>Norway|Vestmidt
+- Norway|Norgemidt>Sweden
+- Norway|Troms>Sweden
 - North Sea|Nordsoen>North Sea|Sorlige Nordsjo I
 - North Sea|Nordsoen>North Sea|Sorlige Nordsjo II
 - North Sea|Nordsoen>North Sea|Utsira Nord
