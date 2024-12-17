@@ -28,7 +28,7 @@
   - EFTA:
       description: European Free Trade Association
       countries: [Iceland, Liechtenstein, Norway, Switzerland]
-      source: https://en.wikipedia.org/wiki/European_Free_Trade_Association
+      source: en.wikipedia.org/wiki/European_Free_Trade_Association
   - Non-EU-Balkans:
       countries: [
         Albania, Bosnia and Herzegovina, Montenegro, North Macedonia, Serbia, Kosovo
