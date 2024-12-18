@@ -27,6 +27,11 @@ The project mostly uses the variables from the [common-definitions](https://gith
 repository, an initiative by the IAMC to develop a shared list of definitions across projects.
 to faciliate interoperability and reuse of scenario data.
 
+> [!TIP]
+> For *users not comfortable working with GitHub repositories and yaml files*,
+> the definitions for this project are available for download as an xlsx spreadsheet
+> at http://files.ece.iiasa.ac.at/idesignres/idesignres-template.xlsx.
+
 ### Project nomenclature
 
 The folder `definitions` can contain the project-specific codelists, i.e., list of allowed
