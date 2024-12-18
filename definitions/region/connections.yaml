@@ -1,0 +1,193 @@
+- Connections:
+# allow directional connections explicitly
+  - Austria>Czechia
+  - Austria>Germany
+  - Austria>Hungary
+  - Austria>Italy
+  - Austria>Slovakia
+  - Austria>Slovenia
+  - Austria>Switzerland
+  - Belgium>EMPIRE V1.0.0/v51|North Sea|Borssele
+  - Belgium>France
+  - Belgium>Germany
+  - Belgium>United Kingdom
+  - Belgium>EMPIRE V1.0.0/v51|North Sea|Hollandsee Kust
+  - Belgium>Luxembourg
+  - Belgium>Netherlands
+  - EMPIRE V1.0.0/v51|North Sea|Borssele>Belgium
+  - EMPIRE V1.0.0/v51|North Sea|Borssele>EMPIRE V1.0.0/v51|North Sea|Helgolander Bucht
+  - EMPIRE V1.0.0/v51|North Sea|Borssele>EMPIRE V1.0.0/v51|North Sea|Hollandsee Kust
+  - EMPIRE V1.0.0/v51|North Sea|Borssele>EMPIRE V1.0.0/v51|North Sea|Nordsoen
+  - EMPIRE V1.0.0/v51|North Sea|Borssele>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo I
+  - EMPIRE V1.0.0/v51|North Sea|Borssele>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo II
+  - EMPIRE V1.0.0/v51|North Sea|Borssele>EMPIRE V1.0.0/v51|North Sea|Utsira Nord
+  - Bosnia and Herzegovina>Croatia
+  - Bosnia and Herzegovina>Italy
+  - Bosnia and Herzegovina>Serbia
+  - Bulgaria>Greece
+  - Bulgaria>North Macedonia
+  - Bulgaria>Romania
+  - Bulgaria>Serbia
+  - Croatia>Hungary
+  - Croatia>Italy
+  - Croatia>Serbia
+  - Croatia>Slovenia
+  - Czechia>Germany
+  - Czechia>Poland
+  - Czechia>Slovakia
+  - Denmark>United Kingdom
+  - Denmark>Netherlands
+  - Denmark>EMPIRE V1.0.0/v51|Norway|Sorland
+  - Denmark>EMPIRE V1.0.0/v51|North Sea|Nordsoen
+  - Denmark>Poland
+  - Denmark>Sweden
+  - EMPIRE V1.0.0/v51|North Sea|Dogger Bank>EMPIRE V1.0.0/v51|North Sea|Borssele
+  - EMPIRE V1.0.0/v51|North Sea|Dogger Bank>EMPIRE V1.0.0/v51|North Sea|East Anglia
+  - EMPIRE V1.0.0/v51|North Sea|Dogger Bank>EMPIRE V1.0.0/v51|North Sea|Helgolander Bucht
+  - EMPIRE V1.0.0/v51|North Sea|Dogger Bank>EMPIRE V1.0.0/v51|North Sea|Hollandsee Kust
+  - EMPIRE V1.0.0/v51|North Sea|Dogger Bank>EMPIRE V1.0.0/v51|North Sea|Hornsea
+  - EMPIRE V1.0.0/v51|North Sea|Dogger Bank>EMPIRE V1.0.0/v51|North Sea|Nordsoen
+  - EMPIRE V1.0.0/v51|North Sea|Dogger Bank>EMPIRE V1.0.0/v51|North Sea|Norfolk
+  - EMPIRE V1.0.0/v51|North Sea|Dogger Bank>EMPIRE V1.0.0/v51|North Sea|Outer Dowsing
+  - EMPIRE V1.0.0/v51|North Sea|Dogger Bank>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo I
+  - EMPIRE V1.0.0/v51|North Sea|Dogger Bank>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo II
+  - EMPIRE V1.0.0/v51|North Sea|Dogger Bank>EMPIRE V1.0.0/v51|North Sea|Utsira Nord
+  - EMPIRE V1.0.0/v51|North Sea|East Anglia>EMPIRE V1.0.0/v51|North Sea|Borssele
+  - EMPIRE V1.0.0/v51|North Sea|East Anglia>EMPIRE V1.0.0/v51|North Sea|Helgolander Bucht
+  - EMPIRE V1.0.0/v51|North Sea|East Anglia>EMPIRE V1.0.0/v51|North Sea|Hollandsee Kust
+  - EMPIRE V1.0.0/v51|North Sea|East Anglia>EMPIRE V1.0.0/v51|North Sea|Nordsoen
+  - EMPIRE V1.0.0/v51|North Sea|East Anglia>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo I
+  - EMPIRE V1.0.0/v51|North Sea|East Anglia>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo II
+  - EMPIRE V1.0.0/v51|North Sea|East Anglia>EMPIRE V1.0.0/v51|North Sea|Utsira Nord
+  - Estonia>Finland
+  - Estonia>Latvia
+  - Estonia>Sweden
+  - Finland>EMPIRE V1.0.0/v51|Norway|Troms
+  - Finland>Sweden
+  - EMPIRE V1.0.0/v51|North Sea|Firth of Forth>EMPIRE V1.0.0/v51|North Sea|Borssele
+  - EMPIRE V1.0.0/v51|North Sea|Firth of Forth>EMPIRE V1.0.0/v51|North Sea|Dogger Bank
+  - EMPIRE V1.0.0/v51|North Sea|Firth of Forth>EMPIRE V1.0.0/v51|North Sea|East Anglia
+  - EMPIRE V1.0.0/v51|North Sea|Firth of Forth>EMPIRE V1.0.0/v51|North Sea|Helgolander Bucht
+  - EMPIRE V1.0.0/v51|North Sea|Firth of Forth>EMPIRE V1.0.0/v51|North Sea|Hollandsee Kust
+  - EMPIRE V1.0.0/v51|North Sea|Firth of Forth>EMPIRE V1.0.0/v51|North Sea|Hornsea
+  - EMPIRE V1.0.0/v51|North Sea|Firth of Forth>EMPIRE V1.0.0/v51|North Sea|Nordsoen
+  - EMPIRE V1.0.0/v51|North Sea|Firth of Forth>EMPIRE V1.0.0/v51|North Sea|Norfolk
+  - EMPIRE V1.0.0/v51|North Sea|Firth of Forth>EMPIRE V1.0.0/v51|North Sea|Outer Dowsing
+  - EMPIRE V1.0.0/v51|North Sea|Firth of Forth>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo I
+  - EMPIRE V1.0.0/v51|North Sea|Firth of Forth>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo II
+  - EMPIRE V1.0.0/v51|North Sea|Firth of Forth>EMPIRE V1.0.0/v51|North Sea|Utsira Nord
+  - France>United Kingdom
+  - France>Ireland
+  - France>Italy
+  - France>Luxembourg
+  - Germany>Denmark
+  - Germany>France
+  - Germany>EMPIRE V1.0.0/v51|North Sea|Helgolander Bucht
+  - Germany>Luxembourg
+  - Germany>Netherlands
+  - Germany>EMPIRE V1.0.0/v51|Norway|Sorland
+  - Germany>Poland
+  - Germany>Sweden
+  - United Kingdom>EMPIRE V1.0.0/v51|North Sea|Dogger Bank
+  - United Kingdom>EMPIRE V1.0.0/v51|North Sea|East Anglia
+  - United Kingdom>EMPIRE V1.0.0/v51|North Sea|Firth of Forth
+  - United Kingdom>EMPIRE V1.0.0/v51|North Sea|Hornsea
+  - United Kingdom>Ireland
+  - United Kingdom>EMPIRE V1.0.0/v51|North Sea|Moray Firth
+  - United Kingdom>Netherlands
+  - United Kingdom>EMPIRE V1.0.0/v51|Norway|Sorland
+  - United Kingdom>EMPIRE V1.0.0/v51|Norway|Vestmidt
+  - United Kingdom>EMPIRE V1.0.0/v51|North Sea|Norfolk
+  - United Kingdom>EMPIRE V1.0.0/v51|North Sea|Outer Dowsing
+  - Greece>Italy
+  - Greece>North Macedonia
+  - EMPIRE V1.0.0/v51|North Sea|Helgolander Bucht>EMPIRE V1.0.0/v51|North Sea|Nordsoen
+  - EMPIRE V1.0.0/v51|North Sea|Helgolander Bucht>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo I
+  - EMPIRE V1.0.0/v51|North Sea|Helgolander Bucht>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo II
+  - EMPIRE V1.0.0/v51|North Sea|Helgolander Bucht>EMPIRE V1.0.0/v51|North Sea|Utsira Nord
+  - EMPIRE V1.0.0/v51|North Sea|Hollandsee Kust>EMPIRE V1.0.0/v51|North Sea|Helgolander Bucht
+  - EMPIRE V1.0.0/v51|North Sea|Hollandsee Kust>EMPIRE V1.0.0/v51|North Sea|Nordsoen
+  - EMPIRE V1.0.0/v51|North Sea|Hollandsee Kust>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo I
+  - EMPIRE V1.0.0/v51|North Sea|Hollandsee Kust>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo II
+  - EMPIRE V1.0.0/v51|North Sea|Hollandsee Kust>EMPIRE V1.0.0/v51|North Sea|Utsira Nord
+  - EMPIRE V1.0.0/v51|North Sea|Hornsea>EMPIRE V1.0.0/v51|North Sea|Borssele
+  - EMPIRE V1.0.0/v51|North Sea|Hornsea>EMPIRE V1.0.0/v51|North Sea|East Anglia
+  - EMPIRE V1.0.0/v51|North Sea|Hornsea>EMPIRE V1.0.0/v51|North Sea|Helgolander Bucht
+  - EMPIRE V1.0.0/v51|North Sea|Hornsea>EMPIRE V1.0.0/v51|North Sea|Hollandsee Kust
+  - EMPIRE V1.0.0/v51|North Sea|Hornsea>EMPIRE V1.0.0/v51|North Sea|Nordsoen
+  - EMPIRE V1.0.0/v51|North Sea|Hornsea>EMPIRE V1.0.0/v51|North Sea|Norfolk
+  - EMPIRE V1.0.0/v51|North Sea|Hornsea>EMPIRE V1.0.0/v51|North Sea|Outer Dowsing
+  - EMPIRE V1.0.0/v51|North Sea|Hornsea>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo I
+  - EMPIRE V1.0.0/v51|North Sea|Hornsea>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo II
+  - EMPIRE V1.0.0/v51|North Sea|Hornsea>EMPIRE V1.0.0/v51|North Sea|Utsira Nord
+  - Hungary>Romania
+  - Hungary>Serbia
+  - Hungary>Slovakia
+  - Hungary>Slovenia
+  - Italy>Slovenia
+  - Latvia>Sweden
+  - Lithuania>Latvia
+  - Lithuania>Poland
+  - Lithuania>Sweden
+  - North Macedonia>Serbia
+  - EMPIRE V1.0.0/v51|North Sea|Moray Firth>EMPIRE V1.0.0/v51|North Sea|Borssele
+  - EMPIRE V1.0.0/v51|North Sea|Moray Firth>EMPIRE V1.0.0/v51|North Sea|Dogger Bank
+  - EMPIRE V1.0.0/v51|North Sea|Moray Firth>EMPIRE V1.0.0/v51|North Sea|East Anglia
+  - EMPIRE V1.0.0/v51|North Sea|Moray Firth>EMPIRE V1.0.0/v51|North Sea|Firth of Forth
+  - EMPIRE V1.0.0/v51|North Sea|Moray Firth>EMPIRE V1.0.0/v51|North Sea|Helgolander Bucht
+  - EMPIRE V1.0.0/v51|North Sea|Moray Firth>EMPIRE V1.0.0/v51|North Sea|Hollandsee Kust
+  - EMPIRE V1.0.0/v51|North Sea|Moray Firth>EMPIRE V1.0.0/v51|North Sea|Hornsea
+  - EMPIRE V1.0.0/v51|North Sea|Moray Firth>EMPIRE V1.0.0/v51|North Sea|Nordsoen
+  - EMPIRE V1.0.0/v51|North Sea|Moray Firth>EMPIRE V1.0.0/v51|North Sea|Norfolk
+  - EMPIRE V1.0.0/v51|North Sea|Moray Firth>EMPIRE V1.0.0/v51|North Sea|Outer Dowsing
+  - EMPIRE V1.0.0/v51|North Sea|Moray Firth>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo I
+  - EMPIRE V1.0.0/v51|North Sea|Moray Firth>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo II
+  - EMPIRE V1.0.0/v51|North Sea|Moray Firth>EMPIRE V1.0.0/v51|North Sea|Utsira Nord
+  - Netherlands>EMPIRE V1.0.0/v51|North Sea|Borssele
+  - Netherlands>EMPIRE V1.0.0/v51|North Sea|Helgolander Bucht
+  - Netherlands>EMPIRE V1.0.0/v51|North Sea|Hollandsee Kust
+  - Netherlands>EMPIRE V1.0.0/v51|Norway|Sorland
+  - EMPIRE V1.0.0/v51|Norway|Ostland>EMPIRE V1.0.0/v51|Norway|Sorland
+  - EMPIRE V1.0.0/v51|Norway|Ostland>EMPIRE V1.0.0/v51|Norway|Norgemidt
+  - EMPIRE V1.0.0/v51|Norway|Ostland>EMPIRE V1.0.0/v51|Norway|Vestmidt
+  - EMPIRE V1.0.0/v51|Norway|Ostland>Sweden
+  - EMPIRE V1.0.0/v51|Norway|Sorland>EMPIRE V1.0.0/v51|Norway|Vestmidt
+  - EMPIRE V1.0.0/v51|Norway|Sorland>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo I
+  - EMPIRE V1.0.0/v51|Norway|Sorland>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo II
+  - EMPIRE V1.0.0/v51|Norway|Sorland>EMPIRE V1.0.0/v51|North Sea|Utsira Nord
+  - EMPIRE V1.0.0/v51|Norway|Norgemidt>EMPIRE V1.0.0/v51|Norway|Troms
+  - EMPIRE V1.0.0/v51|Norway|Norgemidt>EMPIRE V1.0.0/v51|Norway|Vestmidt
+  - EMPIRE V1.0.0/v51|Norway|Norgemidt>Sweden
+  - EMPIRE V1.0.0/v51|Norway|Troms>Sweden
+  - EMPIRE V1.0.0/v51|North Sea|Nordsoen>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo I
+  - EMPIRE V1.0.0/v51|North Sea|Nordsoen>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo II
+  - EMPIRE V1.0.0/v51|North Sea|Nordsoen>EMPIRE V1.0.0/v51|North Sea|Utsira Nord
+  - EMPIRE V1.0.0/v51|North Sea|Norfolk>EMPIRE V1.0.0/v51|North Sea|Borssele
+  - EMPIRE V1.0.0/v51|North Sea|Norfolk>EMPIRE V1.0.0/v51|North Sea|East Anglia
+  - EMPIRE V1.0.0/v51|North Sea|Norfolk>EMPIRE V1.0.0/v51|North Sea|Helgolander Bucht
+  - EMPIRE V1.0.0/v51|North Sea|Norfolk>EMPIRE V1.0.0/v51|North Sea|Hollandsee Kust
+  - EMPIRE V1.0.0/v51|North Sea|Norfolk>EMPIRE V1.0.0/v51|North Sea|Nordsoen
+  - EMPIRE V1.0.0/v51|North Sea|Norfolk>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo I
+  - EMPIRE V1.0.0/v51|North Sea|Norfolk>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo II
+  - EMPIRE V1.0.0/v51|North Sea|Norfolk>EMPIRE V1.0.0/v51|North Sea|Utsira Nord
+  - EMPIRE V1.0.0/v51|North Sea|Outer Dowsing>EMPIRE V1.0.0/v51|North Sea|Borssele
+  - EMPIRE V1.0.0/v51|North Sea|Outer Dowsing>EMPIRE V1.0.0/v51|North Sea|East Anglia
+  - EMPIRE V1.0.0/v51|North Sea|Outer Dowsing>EMPIRE V1.0.0/v51|North Sea|Helgolander Bucht
+  - EMPIRE V1.0.0/v51|North Sea|Outer Dowsing>EMPIRE V1.0.0/v51|North Sea|Hollandsee Kust
+  - EMPIRE V1.0.0/v51|North Sea|Outer Dowsing>EMPIRE V1.0.0/v51|North Sea|Nordsoen
+  - EMPIRE V1.0.0/v51|North Sea|Outer Dowsing>EMPIRE V1.0.0/v51|North Sea|Norfolk
+  - EMPIRE V1.0.0/v51|North Sea|Outer Dowsing>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo I
+  - EMPIRE V1.0.0/v51|North Sea|Outer Dowsing>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo II
+  - EMPIRE V1.0.0/v51|North Sea|Outer Dowsing>EMPIRE V1.0.0/v51|North Sea|Utsira Nord
+  - Poland>Slovakia
+  - Poland>Sweden
+  - Romania>Serbia
+  - EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo I>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo II
+  - Spain>France
+  - Spain>Ireland
+  - Spain>Portugal
+  - Switzerland>France
+  - Switzerland>Germany
+  - Switzerland>Italy
+  - EMPIRE V1.0.0/v51|North Sea|Utsira Nord>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo I
+  - EMPIRE V1.0.0/v51|North Sea|Utsira Nord>EMPIRE V1.0.0/v51|North Sea|Sorlige Nordsjo II
