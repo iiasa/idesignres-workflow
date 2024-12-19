@@ -1,0 +1,90 @@
+- Network|Electricity|Capacity:
+    description: Capacity of the line
+    unit: MW
+- Network|Electricity|Resistance
+    description: Resistance of an line
+    unit: Ohm
+- Network|Electricity|Resistance
+    description: Resistance of an line
+    unit: Ohm
+- Network|Electricity|Reactance:
+    description: Reactance of an line
+    unit: Ohm
+- Network|Electricity|Capacitance
+    description: Parallel capacitance of an line
+    unit: nF
+- Capacity|Electricity|Hydro|Pumped Storage:
+    description: Installed (available) capacity to generate electricity from hydropower pumped storage
+    unit: 'GW'
+- Capacity|Electricity|Hydro|Run of River:
+    description: Installed (available) capacity to generate electricity from hydropower Run of River
+    unit: 'GW'
+- Capacity|Electricity|Hydro|Reservior:
+    description: Installed (available) capacity to generate electricity from hydropower Reservior
+    unit: 'GW'
+- Marginal Cost|Electricity|Biomass:
+    description: Marginal generation cost of electricity from biomass
+    unit: 'USD/MWh'
+- Marginal Cost|Electricity|Coal:
+    description: Marginal generation cost of electricity from coal
+    unit: 'USD/MWh'
+- Marginal Cost|Electricity|Fossil|w/ CCS:
+    description: Marginal generation cost of electricity from fossil fuels including natural gas, oil and coal with carbon capture and storage (CCS)
+    unit: 'USD/MWh'
+- Marginal Cost|Electricity|Fossil|w/o CCS:
+    description: Marginal generation cost of electricity from fossil fuels including natural gas, oil and coal without carbon capture and storage (CCS)
+    unit: 'USD/MWh'
+- Marginal Cost|Electricity|Gas:
+    description: Marginal generation cost of electricity from fossil methane ('natural gas')
+    unit: 'USD/MWh'
+- Marginal Cost|Electricity|Gas|w/ CC:
+    description: Marginal generation cost of electricity from fossil methane ('natural gas') with carbon capture and storage (CCS)
+    unit: 'USD/MWh'
+- Marginal Cost|Electricity|Gas|w/o CC:
+    description: Marginal generation cost of electricity from fossil methane ('natural gas') without carbon capture and storage (CCS)
+    unit: 'USD/MWh'
+- Marginal Cost|Electricity|Hydro:
+    description: Marginal generation cost of electricity from hydropower
+    unit: 'USD/MWh'
+- Marginal Cost|Electricity|Hydro|Pumped Storage:
+    description: Marginal generation cost of electricity from hydropower pumped storage
+    unit: 'USD/MWh'
+- Marginal Cost|Electricity|Hydro|Run of River:
+    description: Marginal generation cost of electricity from hydropower run of river
+    unit: 'USD/MWh'
+- Marginal Cost|Electricity|Hydro|Reservior:
+    description: Marginal generation cost of electricity from hydropower reservior
+    unit: 'USD/MWh'
+- Marginal Cost|Electricity|Hydro|Reservior:
+    description: Marginal generation cost of electricity from hydropower reservior
+    unit: 'USD/MWh'
+- Marginal Cost|Electricity|Nuclear:
+    description: Marginal generation cost of electricity from nuclear
+    unit: 'USD/MWh'
+- Marginal Cost|Electricity|Oil:
+    description: Marginal generation cost of electricity from oil
+    unit: 'USD/MWh'
+- Marginal Cost|Electricity|Oil|w/ CC:
+    description: Marginal generation cost of electricity from oil with carbon capture and storage (CCS)
+    unit: 'USD/MWh'
+- Marginal Cost|Electricity|Oil|w/o CC:
+    description: Marginal generation cost of electricity from oil without carbon capture and storage (CCS)
+    unit: 'USD/MWh'
+- Marginal Cost|Electricity|Other:
+    description: Marginal generation cost of electricity from sources that do not fit any other category
+    unit: 'USD/MWh'
+ - Marginal Cost|Electricity|Solar|CSP:
+    description: Marginal generation cost of electricity from utility-scale concentrated solar power (CSP)
+    unit: 'USD/MWh'  
+ - Marginal Cost|Electricity|Solar|PV:
+    description: Marginal generation cost of electricity from photovoltaics (PV)
+    unit: 'USD/MWh'  
+ - Marginal Cost|Electricity|Wind|Offshore:
+    description: Marginal generation cost of electricity from offshore wind power
+    unit: 'USD/MWh' 
+ - Marginal Cost|Electricity|Wind|Onshore:
+    description: Marginal generation cost of electricity from onshore wind power
+    unit: 'USD/MWh' 
+ - Marginal Active Power|Electricity|Demand|Share of Total:
+    description: The share of the region's electricity demand of total demand at the country level.
+    unit: '-' 
