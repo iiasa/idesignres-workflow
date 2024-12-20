@@ -1,226 +1,226 @@
 # This file adds needed variables for the EMPIRE data upload
 - Active Power|Electricity|Biomass:
-  description: Active power generated from Biomass.
-  unit: MWh
+    description: Active power generated from Biomass.
+    unit: MWh
 - Active Power|Electricity|Coal|w/ CCS:
-  description: Active power generated from Coal w/ CCS.
-  unit: MWh
+    description: Active power generated from Coal w/ CCS.
+    unit: MWh
 - Active Power|Electricity|Coal|w/o CCS:
-  description: Active power generated from Coal w/o CCS.
-  unit: MWh
+    description: Active power generated from Coal w/o CCS.
+    unit: MWh
 - Active Power|Electricity|Gas|CCGT|w/ CCS:
-  description: Active power generated from Gas CCGT w/ CCS.
-  unit: MWh
+    description: Active power generated from Gas CCGT w/ CCS.
+    unit: MWh
 - Active Power|Electricity|Gas|CCGT|w/o CCS:
-  description: Active power generated from Gas CCGT w/o CCS.
-  unit: MWh
+    description: Active power generated from Gas CCGT w/o CCS.
+    unit: MWh
 - Active Power|Electricity|Gas|OCGT|w/o CCS:
-  description: Active power generated from Gas OCGT w/o CCS.
-  unit: MWh
+    description: Active power generated from Gas OCGT w/o CCS.
+    unit: MWh
 - Active Power|Electricity|Geothermal:
-  description: Active power generated from Geothermal.
-  unit: MWh
+    description: Active power generated from Geothermal.
+    unit: MWh
 - Active Power|Electricity|Hydro|Reservoir:
-  description: Active power generated from Hydro Reservoir.
-  unit: MWh
+    description: Active power generated from Hydro Reservoir.
+    unit: MWh
 - Active Power|Electricity|Hydro|Run-of-River:
-  description: Active power generated from Hydro Run-of-River.
-  unit: MWh
+    description: Active power generated from Hydro Run-of-River.
+    unit: MWh
 - Active Power|Electricity|Lignite|w/ CCS:
-  description: Active power generated from Lignite w/ CCS.
-  unit: MWh
+    description: Active power generated from Lignite w/ CCS.
+    unit: MWh
 - Active Power|Electricity|Lignite|w/o CCS:
-  description: Active power generated from Lignite w/o CCS.
-  unit: MWh
+    description: Active power generated from Lignite w/o CCS.
+    unit: MWh
 - Active Power|Electricity|Nuclear:
-  description: Active power generated from Nuclear.
-  unit: MWh
+    description: Active power generated from Nuclear.
+    unit: MWh
 - Active Power|Electricity|Ocean:
-  description: Active power generated from Ocean.
-  unit: MWh
+    description: Active power generated from Ocean.
+    unit: MWh
 - Active Power|Electricity|Oil:
-  description: Active power generated from Oil.
-  unit: MWh
+    description: Active power generated from Oil.
+    unit: MWh
 - Active Power|Electricity|Solar|PV:
-  description: Active power generated from Solar PV.
-  unit: MWh
+    description: Active power generated from Solar PV.
+    unit: MWh
 - Active Power|Electricity|Waste:
-  description: Active power generated from Waste.
-  unit: MWh
+    description: Active power generated from Waste.
+    unit: MWh
 - Active Power|Electricity|Wind|Offshore:
-  description: Active power generated from Wind Offshore.
-  unit: MWh
+    description: Active power generated from Wind Offshore.
+    unit: MWh
 - Active Power|Electricity|Wind|Onshore:
-  description: Active power generated from Wind Onshore.
-  unit: MWh
+    description: Active power generated from Wind Onshore.
+    unit: MWh
 - CO2 Emmissions|Electricity|Coal|w/ CCS:
-  description: CO2 emissions from Coal w/ CCS.
-  unit: tons/MWh
+    description: CO2 emissions from Coal w/ CCS.
+    unit: tons/MWh
 - CO2 Emmissions|Electricity|Coal|w/o CCS:
-  description: CO2 emissions from Coal w/o CCS.
-  unit: tons/MWh
+    description: CO2 emissions from Coal w/o CCS.
+    unit: tons/MWh
 - CO2 Emmissions|Electricity|Gas|CCGT|w/ CCS:
-  description: CO2 emissions from Gas CCGT w/ CCS.
-  unit: tons/MWh
+    description: CO2 emissions from Gas CCGT w/ CCS.
+    unit: tons/MWh
 - CO2 Emmissions|Electricity|Gas|CCGT|w/o CCS:
-  description: CO2 emissions from Gas CCGT w/o CCS.
-  unit: tons/MWh
+    description: CO2 emissions from Gas CCGT w/o CCS.
+    unit: tons/MWh
 - CO2 Emmissions|Electricity|Gas|OCGT|w/o CCS:
-  description: CO2 emissions from Gas OCGT w/o CCS.
-  unit: tons/MWh
+    description: CO2 emissions from Gas OCGT w/o CCS.
+    unit: tons/MWh
 - CO2 Emmissions|Electricity|Lignite|w/ CCS:
-  description: CO2 emissions from Lignite w/ CCS.
-  unit: tons/MWh
+    description: CO2 emissions from Lignite w/ CCS.
+    unit: tons/MWh
 - CO2 Emmissions|Electricity|Lignite|w/o CCS:
-  description: CO2 emissions from Lignite w/o CCS.
-  unit: tons/MWh
+    description: CO2 emissions from Lignite w/o CCS.
+    unit: tons/MWh
 - CO2 Emmissions|Electricity|Oil:
-  description: CO2 emissions from Oil.
-  unit: tons/MWh
+    description: CO2 emissions from Oil.
+    unit: tons/MWh
 - CO2 Emmissions|Electricity|Waste:
-  description: CO2 emissions from Waste.
-  unit: tons/MWh
+    description: CO2 emissions from Waste.
+    unit: tons/MWh
 - Capacity|Electricity|Gas|CCGT|w/ CCS:
-  description: Installed capacity of Gas CCGT w/ CCS.
-  unit: GW
+    description: Installed capacity of Gas CCGT w/ CCS.
+    unit: GW
 - Capacity|Electricity|Gas|CCGT|w/o CCS:
-  description: Installed capacity of Gas CCGT w/o CCS.
-  unit: GW
+    description: Installed capacity of Gas CCGT w/o CCS.
+    unit: GW
 - Capacity|Electricity|Gas|OCGT|w/o CCS:
-  description: Installed capacity of Gas OCGT w/o CCS.
-  unit: GW
+    description: Installed capacity of Gas OCGT w/o CCS.
+    unit: GW
 - Capacity|Electricity|Hydro|Reservoir:
-  description: Installed capacity of Hydro Reservoir.
-  unit: GW
+    description: Installed capacity of Hydro Reservoir.
+    unit: GW
 - Capacity|Electricity|Hydro|Run-of-River:
-  description: Installed capacity of Hydro Run-of-River.
-  unit: GW
+    description: Installed capacity of Hydro Run-of-River.
+    unit: GW
 - Capacity|Electricity|Lignite|w/ CCS:
-  description: Installed capacity of Lignite w/ CCS.
-  unit: GW
+    description: Installed capacity of Lignite w/ CCS.
+    unit: GW
 - Capacity|Electricity|Lignite|w/o CCS:
-  description: Installed capacity of Lignite w/o CCS.
-  unit: GW
+    description: Installed capacity of Lignite w/o CCS.
+    unit: GW
 - Capacity|Electricity|Waste:
-  description: Installed capacity of Waste.
-  unit: GW
+    description: Installed capacity of Waste.
+    unit: GW
 - Capital Cost|Electricity|Lignite|w/ CCS:
-  description: Capital cost for Lignite w/ CCS.
-  unit: EUR/kW
+    description: Capital cost for Lignite w/ CCS.
+    unit: EUR/kW
 - Capital Cost|Electricity|Lignite|w/o CCS:
-  description: Capital cost for Lignite w/o CCS.
-  unit: EUR/kW
+    description: Capital cost for Lignite w/o CCS.
+    unit: EUR/kW
 - Capital Cost|Electricity|Waste:
-  description: Capital cost for Waste.
-  unit: EUR/kW
+    description: Capital cost for Waste.
+    unit: EUR/kW
 - Discount rate|Electricity:
-  description: Discount rate applied to electricity-related investments.
-  unit: '%'
+    description: Discount rate applied to electricity-related investments.
+    unit: '%'
 - Investment|Energy Supply|Electricity|Biomass:
-  description: Investment in Biomass within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Biomass within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Coal|w/ CCS:
-  description: Investment in Coal w/ CCS within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Coal w/ CCS within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Coal|w/o CCS:
-  description: Investment in Coal w/o CCS within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Coal w/o CCS within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Electricity storage:
-  description: Investment in Electricity storage within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Electricity storage within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Gas|CCGT|w/ CCS:
-  description: Investment in Gas CCGT w/ CCS within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Gas CCGT w/ CCS within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Gas|CCGT|w/o CCS:
-  description: Investment in Gas CCGT w/o CCS within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Gas CCGT w/o CCS within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Gas|OCGT|w/o CCS:
-  description: Investment in Gas OCGT w/o CCS within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Gas OCGT w/o CCS within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Geothermal:
-  description: Investment in Geothermal within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Geothermal within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Hydro|Reservoir:
-  description: Investment in Hydro Reservoir within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Hydro Reservoir within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Hydro|Run-of-River:
-  description: Investment in Hydro Run-of-River within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Hydro Run-of-River within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Lignite|w/ CCS:
-  description: Investment in Lignite w/ CCS within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Lignite w/ CCS within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Lignite|w/o CCS:
-  description: Investment in Lignite w/o CCS within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Lignite w/o CCS within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Nuclear:
-  description: Investment in Nuclear within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Nuclear within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Ocean:
-  description: Investment in Ocean within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Ocean within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Oil:
-  description: Investment in Oil within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Oil within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Solar|PV:
-  description: Investment in Solar PV within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Solar PV within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Transmission and Distribution:
-  description: Investment in Transmission and Distribution within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Transmission and Distribution within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Waste:
-  description: Investment in Waste within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Waste within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Wind|Offshore:
-  description: Investment in Wind Offshore within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Wind Offshore within the energy supply sector.
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Wind|Onshore:
-  description: Investment in Wind Onshore within the energy supply sector.
-  unit: billion USD_2010/yr
+    description: Investment in Wind Onshore within the energy supply sector.
+    unit: billion USD_2010/yr
 - Variable Cost|Electricity|Biomass:
-  description: Variable cost for Biomass.
-  unit: EUR/MWh
+    description: Variable cost for Biomass.
+    unit: EUR/MWh
 - Variable Cost|Electricity|Coal|w/ CCS:
-  description: Variable cost for Coal w/ CCS.
-  unit: EUR/MWh
+    description: Variable cost for Coal w/ CCS.
+    unit: EUR/MWh
 - Variable Cost|Electricity|Coal|w/o CCS:
-  description: Variable cost for Coal w/o CCS.
-  unit: EUR/MWh
+    description: Variable cost for Coal w/o CCS.
+    unit: EUR/MWh
 - Variable Cost|Electricity|Gas|CCGT|w/ CCS:
-  description: Variable cost for Gas CCGT w/ CCS.
-  unit: EUR/MWh
+    description: Variable cost for Gas CCGT w/ CCS.
+    unit: EUR/MWh
 - Variable Cost|Electricity|Gas|CCGT|w/o CCS:
-  description: Variable cost for Gas CCGT w/o CCS.
-  unit: EUR/MWh
+    description: Variable cost for Gas CCGT w/o CCS.
+    unit: EUR/MWh
 - Variable Cost|Electricity|Gas|OCGT|w/o CCS:
-  description: Variable cost for Gas OCGT w/o CCS.
-  unit: EUR/MWh
+    description: Variable cost for Gas OCGT w/o CCS.
+    unit: EUR/MWh
 - Variable Cost|Electricity|Geothermal:
-  description: Variable cost for Geothermal.
-  unit: EUR/MWh
+    description: Variable cost for Geothermal.
+    unit: EUR/MWh
 - Variable Cost|Electricity|Hydro|Reservoir:
-  description: Variable cost for Hydro Reservoir.
-  unit: EUR/MWh
+    description: Variable cost for Hydro Reservoir.
+    unit: EUR/MWh
 - Variable Cost|Electricity|Lignite|w/ CCS:
-  description: Variable cost for Lignite w/ CCS.
-  unit: EUR/MWh
+    description: Variable cost for Lignite w/ CCS.
+    unit: EUR/MWh
 - Variable Cost|Electricity|Lignite|w/o CCS:
-  description: Variable cost for Lignite w/o CCS.
-  unit: EUR/MWh
+    description: Variable cost for Lignite w/o CCS.
+    unit: EUR/MWh
 - Variable Cost|Electricity|Nuclear:
-  description: Variable cost for Nuclear.
-  unit: EUR/MWh
+    description: Variable cost for Nuclear.
+    unit: EUR/MWh
 - Variable Cost|Electricity|Ocean:
-  description: Variable cost for Ocean.
-  unit: EUR/MWh
+    description: Variable cost for Ocean.
+    unit: EUR/MWh
 - Variable Cost|Electricity|Oil:
-  description: Variable cost for Oil.
-  unit: EUR/MWh
+    description: Variable cost for Oil.
+    unit: EUR/MWh
 - Variable Cost|Electricity|Waste:
-  description: Variable cost for Waste.
-  unit: EUR/MWh
+    description: Variable cost for Waste.
+    unit: EUR/MWh
 - Variable Cost|Electricity|Wind|Offshore:
-  description: Variable cost for Wind Offshore.
-  unit: EUR/MWh
+    description: Variable cost for Wind Offshore.
+    unit: EUR/MWh
 - Variable Cost|Electricity|Wind|Onshore:
-  description: Variable cost for Wind Onshore.
-  unit: EUR/MWh
+    description: Variable cost for Wind Onshore.
+    unit: EUR/MWh
