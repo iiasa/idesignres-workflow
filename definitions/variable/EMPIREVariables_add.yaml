@@ -1,4 +1,4 @@
-
+# This file adds needed variables for the EMPIRE data upload
 - Active Power|Electricity|Biomass:
     description: Active power generated from Biomass.
     unit: MWh
