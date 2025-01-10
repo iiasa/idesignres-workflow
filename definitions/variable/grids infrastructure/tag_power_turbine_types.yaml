@@ -1,0 +1,9 @@
+- Turbine Type:
+    - Combined Cycle:
+        description: combined-cycle (CC)
+    - Gas Turbine:
+        description: gas turbines (GT)
+    - Integrated Gasification Combined Cycle:
+        description: integrated gasification combined cycle plants (IGCC)
+    - Steam Turbine:
+        description: steam turbines
