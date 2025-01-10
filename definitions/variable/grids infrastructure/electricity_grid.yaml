@@ -28,9 +28,6 @@
 - Capacity|Electricity|Hydro|Run of River:
           description: Installed (available) capacity to generate electricity from hydropower run-of-river plants
           unit: GW
-- Capacity|Electricity|Solar|Thermal:
-          description: Installed (available) capacity to generate electricity from solar thermal technology
-          unit: GW
 - Marginal Cost|Electricity|Gas|{Turbine Type}:
           description: Marginal generation cost of electricity from natural gas using {Turbine Type} plants
           unit: USD/MWh
@@ -58,8 +55,8 @@
 - Marginal Cost|Electricity|Solar|PV:
           description: Marginal generation cost of electricity from solar photovoltaic technology
           unit: USD/MWh
-- Marginal Cost|Electricity|Solar|Thermal:
-          description: Marginal generation cost of electricity from solar thermal technology
+- Marginal Cost|Electricity|Solar|CSP:
+          description: Marginal generation cost of electricity from Concentrated Solar Power technology
           unit: USD/MWh
 - Marginal Cost|Electricity|Wind|Offshore:
           description: Marginal generation cost of electricity from offshore wind farms
