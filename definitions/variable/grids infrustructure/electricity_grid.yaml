@@ -107,5 +107,5 @@
     description: Marginal generation cost of electricity from onshore wind farms
     unit: USD/MWh
 - Active Power|Electricity|Demand [Share]:
-    description: The share of the region's electricity demand of total demand at the country level.
+    description: The share of the region's electricity demand of total demand
     unit:
