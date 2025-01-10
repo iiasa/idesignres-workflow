@@ -1,96 +1,93 @@
 - Capacity|Natural Gas|Regasifier:
-    description: Regasifier upperbound capacity
-    unit: [GW]
+      description: Regasifier upperbound capacity
+      unit: GW
 - Capacity|Hydrogen|Regasifier:
-    description: Regasifier upperbound capacity
-    unit: [GW]
+      description: Regasifier upperbound capacity
+      unit: GW
 - Capacity|Natural Gas|Storage|Aquifer:
-    description: Aquifer storage capacity
-    unit: [GWh]
+      description: Aquifer storage capacity
+      unit: GWh
 - Capacity|Natural Gas|Storage|Salt Cavern:
-    description: Salt Cavern storage capacity
-    unit: [GWh]
+      description: Salt Cavern storage capacity
+      unit: GWh
 - Capacity|Natural Gas|Storage|Depleted Field:
-    description: Depleted Field storage capacity
-    unit: [GWh]
+      description: Depleted Field storage capacity
+      unit: GWh
 - Injection Rate|Natural Gas|Storage|Aquifer:
-    description: Aquifer storage Injection Rate
-    unit: [GW]
+      description: Aquifer storage Injection Rate
+      unit: GW
 - Injection Rate|Gas|Storage|Salt Cavern:
-    description: Salt Cavern storage Injection Rate
-    unit: [GW]
+      description: Salt Cavern storage Injection Rate
+      unit: GW
 - Injection Rate|Gas|Storage|Depleted Field:
-    description: Depleted Field storage Injection Rate
-    unit: [GW]
+      description: Depleted Field storage Injection Rate
+      unit: GW
 - Extraction Rate|Gas|Storage|Aquifer:
-    description: Aquifer storage Extraction Rate
-    unit: [GW]
+      description: Aquifer storage Extraction Rate
+      unit: GW
 - Extraction Rate|Gas|Storage|Salt Cavern:
-    description: Salt Cavern storage Extraction Rate
-    unit: [GW]
+      description: Salt Cavern storage Extraction Rate
+      unit: GW
 - Extraction Rate|Gas|Storage|Depleted Field:
-    description: Depleted Field storage Extraction Rate
-    unit: [GW]
+      description: Depleted Field storage Extraction Rate
+      unit: GW
 - Share of NUTS2 Consumption|Secondary Fuel|Gas:
-    description: Share of Natural gas consumption in respective NUTS2-area
-    unit: 
+      description: Share of Natural gas consumption in respective NUTS2-area
+      unit:
 - Share of NUTS2 Consumption|Secondary Fuel|Hydrogen:
-    description: Share of Hydrogen consumption in respective NUTS2-area
-    unit: 
+      description: Share of Hydrogen consumption in respective NUTS2-area
+      unit:
 - Final Energy|Gases|Gas|Nominal Consumption:
-    description: Nominal gas consumption
-    unit: [GW]
+      description: Nominal gas consumption
+      unit: GW
 - Final Energy|Gases|Hydrogen|Nominal Consumption:
-    description: Nominal gas consumption
-    unit: [GW]
+      description: Nominal gas consumption
+      unit: GW
 - Final Energy|Gases|Gas|Maximum Consumption:
-    description: Maximum gas consumption
-    unit: [GW]
+      description: Maximum gas consumption
+      unit: GW
 - Final Energy|Gases|Hydrogen|Maximum Consumption:
-    description: Maximum gas consumption
-    unit: [GW]
+      description: Maximum gas consumption
+      unit: GW
 - Final Energy|Gases|Gas|Mean Consumption:
-    description: Mean gas consumption
-    unit: [GW]
+      description: Mean gas consumption
+      unit: GW
 - Final Energy|Gases|Hydrogen|Mean Consumption:
-    description: Mean gas consumption
-    unit: [GW]
+      description: Mean gas consumption
+      unit: GW
 - Final Energy|Gases|Gas|Median Consumption:
-    description: Median gas consumption
-    unit: [GW]
+      description: Median gas consumption
+      unit: GW
 - Final Energy|Gases|Hydrogen|Median Consumption:
-    description: Median gas consumption
-    unit: [GW]
+      description: Median gas consumption
+      unit: GW
 - Final Energy|Gases|Gas|Minimum Consumption:
-    description: Minimum gas consumption
-    unit: [GW]
+      description: Minimum gas consumption
+      unit: GW
 - Final Energy|Gases|Hydrogen|Minimum Consumption:
-    description: Minimum gas consumption
-    unit: [GW]
+      description: Minimum gas consumption
+      unit: GW
 - Network|Gas|Natural Gas|Capacity:
-    description: Capacity of the pipeline
-    unit: [GW/h]
+      description: Capacity of the pipeline
+      unit: GW/h
 - Network|Gas|Hydrogen|Capacity:
-    description: Capacity of the pipeline
-    unit: [GW/h]
+      description: Capacity of the pipeline
+      unit: GW/h
 - Network|Gas|Hydrogen|Length:
-    description: Length of the pipeline
-    unit: [km]
+      description: Length of the pipeline
+      unit: km
 - Network|Gas|Natural Gas|Length:
-    description: Length of the pipeline
-    unit: [km]
-- Network|Gas|Natural Gas|Length:
-    description: Length of the pipeline
-    unit: [km]
+      description: Length of the pipeline
+      unit: km
 - Network|Gas|Natural Gas|Offshore Length:
-    description: Length of the offshore part of the pipeline
-    unit: [km]
+      description: Length of the offshore part of the pipeline
+      unit: km
 - Network|Gas|Hydrogen|Offshore Length:
-    description: Length of the offshore part of the pipeline
-    unit: [km]
+      description: Length of the offshore part of the pipeline
+      unit: km
 - Network|Gas|Hydrogen|Reversible:
-    description: If the carrier can flow in both directions
-    unit: -
+      description: If the carrier can flow in both directions
+      unit:
 - Network|Gas|Natural Gas|Reversible:
-    description: If the carrier can flow in both directions
-    unit:
+      description: If the carrier can flow in both directions
+      unit:
