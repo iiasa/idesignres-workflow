@@ -108,4 +108,6 @@
     unit: USD/MWh
 - Active Power|Electricity|Demand [Share]:
     description: The share of the region's electricity demand of total demand
-    unit:
+    unit: '%'
+    range: [ 0, 100 ] 
+    weight: Final Energy
