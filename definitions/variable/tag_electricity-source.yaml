@@ -1,0 +1,40 @@
+- Electricity Source:
+    - Gas|CCGT|w/ CCS:
+        description: combined cycle gas turbine with carbon capture and storage
+    - Gas|CCGT|w/o CCS:
+        description: combined cycle gas turbine without carbon capture and storage
+    - Gas|OCGT|w/o CCS:
+        description: open cycle gas turbine without carbon capture and storage
+    - Hydro|Reservoir:
+        description: hydroelectric power plants with reservoirs
+    - Hydro|Run-of-River:
+        description: hydroelectric power plants without reservoirs
+    - Lignite|w/o CCS:          
+        description: lignite without carbon capture and storage
+    - Waste:
+        description: waste-to-energy plants
+    - Wind|Offshore:
+        description: offshore wind power
+    - Wind|Onshore:
+        description: onshore wind power
+    - Solar|PV:
+        description: photovoltaic solar power
+    - Biomass:  
+        description: biomass power plants
+    - Coal|w/ CCS:
+        description: coal power plants with carbon capture and storage
+    - Coal|w/o CCS:
+        description: coal power plants without carbon capture and storage
+    - Geothermal:
+        description: geothermal power plants
+    - Nuclear:
+        description: nuclear power plants
+    - Ocean:
+        description: ocean power plants
+    - Oil:
+        description: oil power plants
+    - Electricity storage:
+        description: electricity storage systems
+    - Transmission and Distribution:
+        description: electricity transmission and distribution systems
+    

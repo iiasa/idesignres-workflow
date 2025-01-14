@@ -14,9 +14,9 @@
 - Capital Cost|Electricity|{Electricity Source}:
     description: Capital cost for {Electricity Source}
     unit: USD_2010/kW
-- Emissions|CO2|Electricity|{Electricity Source}:
-    description: CO2 emissions from {Electricity Source}
+- Emission Rate|CO2|Energy Supply|Electricity|{Electricity Source}:
+    description: CO2 emission rate from {Electricity Source}
     unit: tons/MWh
-- Discount rate|Electricity:
+- Discount Rate|Electricity:
     description: Discount rate applied to electricity-related investments
     unit: '%'
