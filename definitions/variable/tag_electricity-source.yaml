@@ -1,10 +1,8 @@
 - Electricity Source:
     - Gas|{Turbine Type}|w/ CCS:
-        description: combined cycle gas turbine with carbon capture and storage
+        description: combined or open cycle gas turbine with carbon capture and storage
     - Gas|{Turbine Type}|w/o CCS:
-        description: combined cycle gas turbine without carbon capture and storage
-    - Gas|{Turbine Type}|w/o CCS:
-        description: open cycle gas turbine without carbon capture and storage
+        description: combined or open cycle gas turbine without carbon capture and storage
     - Hydro|Reservoir:
         description: hydroelectric power plants with reservoirs
     - Hydro|Run of River:
