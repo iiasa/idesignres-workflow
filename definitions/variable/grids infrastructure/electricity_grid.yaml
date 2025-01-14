@@ -13,9 +13,6 @@
 - Capacity|Electricity|Gas|{Turbine Type}:
           description: Installed (available) capacity to generate electricity with natural gas using {Turbine Type} plants
           unit: GW
-- Capacity|Electricity|Fossil|{Turbine Type}:
-          description: Installed (available) capacity to generate electricity from fossil fuels using {Turbine Type} plants
-          unit: GW
 - Capacity|Electricity|Oil|{Turbine Type}:
           description: Installed (available) capacity to generate electricity from oil-based sources using {Turbine Type} plants
           unit: GW
@@ -28,40 +25,40 @@
 - Capacity|Electricity|Hydro|Run of River:
           description: Installed (available) capacity to generate electricity from hydropower run-of-river plants
           unit: GW
-- Marginal Cost|Electricity|Gas|{Turbine Type}:
+- Variable Cost|Electricity|Gas|{Turbine Type}:
           description: Marginal generation cost of electricity from natural gas using {Turbine Type} plants
           unit: USD/MWh
-- Marginal Cost|Electricity|Oil|{Turbine Type}:
+- Variable Cost|Electricity|Oil|{Turbine Type}:
           description: Marginal generation cost of electricity from oil-based sources using {Turbine Type} plants
           unit: USD/MWh
-- Marginal Cost|Electricity|Biomass:
+- Variable Cost|Electricity|Biomass:
           description: Marginal generation cost of electricity from biomass
           unit: USD/MWh
-- Marginal Cost|Electricity|Coal:
+- Variable Cost|Electricity|Coal:
           description: Marginal generation cost of electricity from coal
           unit: USD/MWh
-- Marginal Cost|Electricity|Nuclear:
+- Variable Cost|Electricity|Nuclear:
           description: Marginal generation cost of electricity from nuclear power plants
           unit: USD/MWh
-- Marginal Cost|Electricity|Hydro|Pumped Storage:
+- Variable Cost|Electricity|Hydro|Pumped Storage:
           description: Marginal generation cost of electricity from hydropower pumped storage
           unit: USD/MWh
-- Marginal Cost|Electricity|Hydro|Reservoir:
+- Variable Cost|Electricity|Hydro|Reservoir:
           description: Marginal generation cost of electricity from hydropower reservoir plants
           unit: USD/MWh
-- Marginal Cost|Electricity|Hydro|Run of River:
+- Variable Cost|Electricity|Hydro|Run of River:
           description: Marginal generation cost of electricity from hydropower run-of-river plants
           unit: USD/MWh
-- Marginal Cost|Electricity|Solar|PV:
+- Variable Cost|Electricity|Solar|PV:
           description: Marginal generation cost of electricity from solar photovoltaic technology
           unit: USD/MWh
-- Marginal Cost|Electricity|Solar|CSP:
+- Variable Cost|Electricity|Solar|CSP:
           description: Marginal generation cost of electricity from Concentrated Solar Power technology
           unit: USD/MWh
-- Marginal Cost|Electricity|Wind|Offshore:
+- Variable Cost|Electricity|Wind|Offshore:
           description: Marginal generation cost of electricity from offshore wind farms
           unit: USD/MWh
-- Marginal Cost|Electricity|Wind|Onshore:
+- Variable Cost|Electricity|Wind|Onshore:
           description: Marginal generation cost of electricity from onshore wind farms
           unit: USD/MWh
 - Active Power|Electricity|Demand [Share]:
