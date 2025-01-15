@@ -1,7 +1,7 @@
 # This file adds needed variables for the EMPIRE data upload
--  Active Power|Electricity|{Electricity Source}:
-     description: Active power generated from {Electricity Source}
-     unit: MWh
+-  Secondary Energy|Electricity|{Electricity Source}:
+     description: Net electricity generation from {Electricity Source}
+     unit: EJ/yr
 - Investment|Energy Supply|Electricity|{Electricity Source}:
     description: Investment in {Electricity Source}
     unit: billion USD_2010/yr
@@ -14,7 +14,7 @@
 - Capital Cost|Electricity|{Electricity Source}:
     description: Capital cost for {Electricity Source}
     unit: USD_2010/kW
-- Emission Rate|CO2|Energy Supply|Electricity|{Electricity Source}:
+- Emission Rate|CO2|Energy|Supply|Electricity|{Electricity Source}:
     description: CO2 emission rate from {Electricity Source}
     unit: tons/MWh
 - Discount Rate|Electricity:
