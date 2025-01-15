@@ -5,7 +5,13 @@
 - Investment|Energy Supply|Electricity|{Electricity Source}:
     description: Investment in {Electricity Source}
     unit: billion USD_2010/yr
+- Investment|Energy Supply|Electricity|{Common Electricity Source}:
+    description: Investment in {Electricity Source}
+    unit: billion USD_2010/yr
 - Variable Cost|Electricity|{Electricity Source}:
+    description: Variable cost for generating electricity from {Electricity Source} with the fuel cost
+    unit: EUR/MWh
+- Variable Cost|Electricity|{Common Electricity Source}:
     description: Variable cost for generating electricity from {Electricity Source} with the fuel cost
     unit: EUR/MWh
 - Capacity|Electricity|{Electricity Source}:
