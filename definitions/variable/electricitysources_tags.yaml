@@ -17,9 +17,6 @@
 - Capacity|Electricity|{Electricity Source}:
     description: Installed (available) capacity of {Electricity Source}
     unit: GW
-- Capacity|Electricity|{Common Electricity Source}:
-    description: Installed (available) capacity of {Common Electricity Source}
-    unit: GW
 - Capital Cost|Electricity|{Electricity Source}:
     description: Capital cost for {Electricity Source}
     unit: USD_2010/kW
