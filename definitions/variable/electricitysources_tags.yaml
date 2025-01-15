@@ -6,16 +6,19 @@
     description: Investment in {Electricity Source}
     unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|{Common Electricity Source}:
-    description: Investment in {Electricity Source}
+    description: Investment in {Common Electricity Source}
     unit: billion USD_2010/yr
 - Variable Cost|Electricity|{Electricity Source}:
     description: Variable cost for generating electricity from {Electricity Source} with the fuel cost
     unit: EUR/MWh
 - Variable Cost|Electricity|{Common Electricity Source}:
-    description: Variable cost for generating electricity from {Electricity Source} with the fuel cost
+    description: Variable cost for generating electricity from {Common Electricity Source} with the fuel cost
     unit: EUR/MWh
 - Capacity|Electricity|{Electricity Source}:
     description: Installed (available) capacity of {Electricity Source}
+    unit: GW
+- Capacity|Electricity|{Common Electricity Source}:
+    description: Installed (available) capacity of {Common Electricity Source}
     unit: GW
 - Capital Cost|Electricity|{Electricity Source}:
     description: Capital cost for {Electricity Source}
@@ -26,3 +29,4 @@
 - Discount Rate|Electricity:
     description: Discount rate applied to electricity-related investments
     unit: '%'
+    
