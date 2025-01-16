@@ -17,7 +17,7 @@
         description: coal power plants with carbon capture and storage
     - Coal|Hard Coal|w/o CCS:
         description: coal power plants without carbon capture and storage
-    - Electricity storage:
+    - Electricity Storage:
         description: electricity storage systems
     - Transmission and Distribution:
         description: electricity transmission and distribution systems
