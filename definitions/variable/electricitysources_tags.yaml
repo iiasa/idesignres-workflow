@@ -1,26 +1,26 @@
 # This file adds needed variables for the EMPIRE data upload
--  Secondary Energy|Electricity|{Electricity Source}:
+-  Secondary Energy|Electricity|{Electricity Source By Technology}:
      description: Net electricity generation from {Electricity Source}
      unit: EJ/yr
-- Investment|Energy Supply|Electricity|{Electricity Source}:
+- Investment|Energy Supply|Electricity|{Electricity Source By Technology}:
     description: Investment in {Electricity Source}
     unit: billion USD_2010/yr
-- Investment|Energy Supply|Electricity|{Common Electricity Source}:
+- Investment|Energy Supply|Electricity|{Electricity Source}:
     description: Investment in {Common Electricity Source}
     unit: billion USD_2010/yr
-- Variable Cost|Electricity|{Electricity Source}:
+- Variable Cost|Electricity|{Electricity Source By Technology}:
     description: Variable cost for generating electricity from {Electricity Source} with the fuel cost
     unit: EUR/MWh
-- Variable Cost|Electricity|{Common Electricity Source}:
+- Variable Cost|Electricity|{Electricity Source}:
     description: Variable cost for generating electricity from {Common Electricity Source} with the fuel cost
     unit: EUR/MWh
-- Capacity|Electricity|{Electricity Source}:
+- Capacity|Electricity|{Electricity Source By Technology}:
     description: Installed (available) capacity of {Electricity Source}
     unit: GW
-- Capital Cost|Electricity|{Electricity Source}:
+- Capital Cost|Electricity|{Electricity Source By Technology}:
     description: Capital cost for {Electricity Source}
     unit: USD_2010/kW
-- Emission Rate|CO2|Energy|Supply|Electricity|{Electricity Source}:
+- Emission Rate|CO2|Energy|Supply|Electricity|{Electricity Source By Technology}:
     description: CO2 emission rate from {Electricity Source}
     unit: tons/MWh
 - Discount Rate|Electricity:
