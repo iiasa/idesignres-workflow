@@ -1,4 +1,4 @@
-- Electricity Source:
+- Electricity Source By Technology:
     - Gas|{Turbine Type}|w/ CCS:
         description: combined or open cycle gas turbine with carbon capture and storage
     - Gas|{Turbine Type}|w/o CCS:
