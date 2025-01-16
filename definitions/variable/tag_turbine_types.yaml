@@ -1,7 +1,0 @@
-- Turbine Type:
-    - CCGT:
-        description: Combined-cycle gas turbine
-    - OCGT:
-        description: Open-cycle gas turbine
-    - Steam Turbine:
-        description: steam turbines
