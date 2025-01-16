@@ -26,4 +26,3 @@
 - Discount Rate|Electricity:
     description: Discount rate applied to electricity-related investments
     unit: '%'
-    
