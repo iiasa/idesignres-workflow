@@ -12,7 +12,8 @@
     description: Variable cost for generating electricity from {Electricity Source By Technology} with the fuel cost
     unit: EUR/MWh
 - Variable Cost|Electricity|{Electricity Source}:
-    description: Variable cost for generating electricity from {Electricity Source} with the fuel cost
+    description: Short-term operational cost for generating electricity from {Electricity Source}
+      including fuel cost
     unit: EUR/MWh
 - Capacity|Electricity|{Electricity Source By Technology}:
     description: Installed (available) capacity of {Electricity Source By Technology}
