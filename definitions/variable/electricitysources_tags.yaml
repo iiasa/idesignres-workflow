@@ -9,7 +9,8 @@
     description: Investment in {Electricity Source}
     unit: billion USD_2010/yr
 - Variable Cost|Electricity|{Electricity Source By Technology}:
-    description: Variable cost for generating electricity from {Electricity Source By Technology} with the fuel cost
+    description: Short-term operational cost for generating electricity from {Electricity Source By Technology}
+      including fuel cost
     unit: EUR/MWh
 - Variable Cost|Electricity|{Electricity Source}:
     description: Short-term operational cost for generating electricity from {Electricity Source}
