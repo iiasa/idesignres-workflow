@@ -22,7 +22,7 @@
     unit: USD_2010/kW
 - Emission Rate|CO2|Energy|Supply|Electricity|{Electricity Source By Technology}:
     description: CO2 emission rate from {Electricity Source By Technology}
-    unit: tons/MWh
+    unit: t CO2/MWh
 - Discount Rate|Electricity:
     description: Discount rate applied to electricity-related investments
     unit: '%'
