@@ -1,0 +1,30 @@
+# This file adds needed variables for the EMPIRE data upload
+- Secondary Energy|Electricity|{Electricity Source By Technology}:
+     description: Net electricity generation from {Electricity Source By Technology}
+     unit: EJ/yr
+- Investment|Energy Supply|Electricity|{Electricity Source By Technology}:
+    description: Investment in {Electricity Source By Technology}
+    unit: billion USD_2010/yr
+- Investment|Energy Supply|Electricity|{Electricity Source}:
+    description: Investment in {Electricity Source}
+    unit: billion USD_2010/yr
+- Variable Cost|Electricity|{Electricity Source By Technology}:
+    description: Short-term operational cost for generating electricity from {Electricity Source By Technology}
+      including fuel cost
+    unit: EUR/MWh
+- Variable Cost|Electricity|{Electricity Source}:
+    description: Short-term operational cost for generating electricity from {Electricity Source}
+      including fuel cost
+    unit: EUR/MWh
+- Capacity|Electricity|{Electricity Source By Technology}:
+    description: Installed (available) capacity of {Electricity Source By Technology}
+    unit: GW
+- Capital Cost|Electricity|{Electricity Source By Technology}:
+    description: Capital cost for {Electricity Source By Technology}
+    unit: USD_2010/kW
+- Emission Rate|CO2|Energy|Supply|Electricity|{Electricity Source By Technology}:
+    description: CO2 emission rate from {Electricity Source By Technology}
+    unit: t CO2/MWh
+- Discount Rate|Electricity:
+    description: Discount rate applied to electricity-related investments
+    unit: '%'
