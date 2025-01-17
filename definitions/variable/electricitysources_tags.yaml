@@ -1,5 +1,5 @@
 # This file adds needed variables for the EMPIRE data upload
--  Secondary Energy|Electricity|{Electricity Source By Technology}:
+- Secondary Energy|Electricity|{Electricity Source By Technology}:
      description: Net electricity generation from {Electricity Source By Technology}
      unit: EJ/yr
 - Investment|Energy Supply|Electricity|{Electricity Source By Technology}:
