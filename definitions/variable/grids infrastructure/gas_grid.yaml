@@ -16,42 +16,36 @@
 - Injection Rate|Natural Gas|Storage|Aquifer:
         description: Aquifer storage Injection Rate
         unit: GW
-- Injection Rate|Gas|Storage|Salt Cavern:
+- Injection Rate|Natural Gas|Storage|Salt Cavern:
         description: Salt Cavern storage Injection Rate
         unit: GW
-- Injection Rate|Gas|Storage|Depleted Field:
+- Injection Rate|Natural Gas|Storage|Depleted Field:
         description: Depleted Field storage Injection Rate
         unit: GW
-- Extraction Rate|Gas|Storage|Aquifer:
+- Extraction Rate|Natural Gas|Storage|Aquifer:
         description: Aquifer storage Extraction Rate
         unit: GW
-- Extraction Rate|Gas|Storage|Salt Cavern:
+- Extraction Rate|Natural Gas|Storage|Salt Cavern:
         description: Salt Cavern storage Extraction Rate
         unit: GW
-- Extraction Rate|Gas|Storage|Depleted Field:
+- Extraction Rate|Natural Gas|Storage|Depleted Field:
         description: Depleted Field storage Extraction Rate
         unit: GW
-- Network|Gas|Natural Gas|Capacity:
+- Network|Natural Gas|Capacity:
         description: Capacity of the pipeline
         unit: GW/h
-- Network|Gas|Hydrogen|Capacity:
+- Network|Hydrogen|Capacity:
         description: Capacity of the pipeline
         unit: GW/h
-- Network|Gas|Hydrogen|Length:
+- Network|Hydrogen|Length:
         description: Length of the pipeline
         unit: km
-- Network|Gas|Natural Gas|Length:
+- Network|Natural Gas|Length:
         description: Length of the pipeline
         unit: km
-- Network|Gas|Natural Gas|Offshore Length:
+- Network|Natural Gas|Length|Offshore:
         description: Length of the offshore part of the pipeline
         unit: km
-- Network|Gas|Hydrogen|Offshore Length:
+- Network|Hydrogen|Length|Offshore:
         description: Length of the offshore part of the pipeline
         unit: km
-- Network|Gas|Hydrogen|Reversible:
-        description: If the carrier can flow in both directions
-        unit:
-- Network|Gas|Natural Gas|Reversible:
-        description: If the carrier can flow in both directions
-        unit:
