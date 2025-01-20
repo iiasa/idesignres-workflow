@@ -1,0 +1,51 @@
+- Capacity|Natural Gas|Regasifier:
+        description: Installed (available) capacity for regasification of methane ('natural gas')
+        unit: GW
+- Capacity|Hydrogen|Regasifier:
+        description: Installed (available) capacity for regasification of hydrogen.
+        unit: GW
+- Capacity|Natural Gas|Storage|Aquifer:
+        description: Available capacity for storage of methane ('natural gas') in aquifers.
+        unit: GWh
+- Capacity|Natural Gas|Storage|Salt Cavern:
+        description: Available capacity for storage of methane ('natural gas') in salt cavern.
+        unit: GWh
+- Capacity|Natural Gas|Storage|Depleted Field:
+        description: Available capacity for storage of methane ('natural gas') in depleted field.
+        unit: GWh
+- Injection Rate|Natural Gas|Storage|Aquifer:
+        description: Maximum injection rate of methane ('natural gas') into aquifers.
+        unit: GW
+- Injection Rate|Natural Gas|Storage|Salt Cavern:
+        description: Maximum injection rate of methane ('natural gas') into salt cavern.
+        unit: GW
+- Injection Rate|Natural Gas|Storage|Depleted Field:
+        description: Maximum injection rate of methane ('natural gas') into depleted field.
+        unit: GW
+- Extraction Rate|Natural Gas|Storage|Aquifer:
+        description: Maximum extraction rate of methane ('natural gas') into aquifers.
+        unit: GW
+- Extraction Rate|Natural Gas|Storage|Salt Cavern:
+        description: Maximum extraction rate of methane ('natural gas') into salt cavern.
+        unit: GW
+- Extraction Rate|Natural Gas|Storage|Depleted Field:
+        description: Maximum extraction rate of methane ('natural gas') into depleted field.
+        unit: GW
+- Network|Natural Gas|Capacity:
+        description: Upper bound of natural gas pipeline capacity.
+        unit: GW/h
+- Network|Hydrogen|Capacity:
+        description: Upper bound of hydrogen pipeline capacity.
+        unit: GW/h
+- Network|Hydrogen|Length:
+        description: Length of the hydrogen pipeline.
+        unit: km
+- Network|Natural Gas|Length:
+        description: Length of the natural gas pipeline.
+        unit: km
+- Network|Natural Gas|Length|Offshore:
+        description: Length of the offshore part of the natural gas pipeline.
+        unit: km
+- Network|Hydrogen|Length|Offshore:
+        description: Length of the offshore part of the hydrogen pipeline.
+        unit: km
