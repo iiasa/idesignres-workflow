@@ -23,7 +23,7 @@
         description: steam turbine with carbon capture and storage
     - Oil|Steam Turbine|w/o CCS:
         description: steam turbine turbine without carbon capture and storage
-    - Oil|Internal Combustion|w CCS:
+    - Oil|Internal Combustion|w/ CCS:
         description: Internal combustion engine with carbon capture and storage
     - Oil|Internal Combustion|w/o CCS:
         description: Internal combustion engine without carbon capture and storage
