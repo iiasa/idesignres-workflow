@@ -11,8 +11,6 @@
         description: steam turbine with carbon capture and storage
     - Gas|Steam Turbine|w/o CCS:
         description: steam turbine without carbon capture and storage
-    - Oil:
-        description: conventional oil
     - Oil|CCGT|w/ CCS:
         description: combined-cycle gas turbine with carbon capture and storage
     - Oil|CCGT|w/o CCS:
