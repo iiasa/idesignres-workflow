@@ -5,9 +5,6 @@
 - Investment|Energy Supply|Electricity|{Electricity Source By Technology}:
     description: Investment in {Electricity Source By Technology}
     unit: billion USD_2010/yr
-- Investment|Energy Supply|Electricity|{Electricity Source}:
-    description: Investment in {Electricity Source}
-    unit: billion USD_2010/yr
 - Variable Cost|Electricity|{Electricity Source By Technology}:
     description: Short-term operational cost for generating electricity from {Electricity Source By Technology}
       including fuel cost
