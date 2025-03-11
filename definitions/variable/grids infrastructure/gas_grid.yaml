@@ -33,10 +33,10 @@
         unit: GW
 - Network|Natural Gas|Capacity:
         description: Upper bound of natural gas pipeline capacity.
-        unit: GW/h
+        unit: GWh/h
 - Network|Hydrogen|Capacity:
         description: Upper bound of hydrogen pipeline capacity.
-        unit: GW/h
+        unit: GWh/h
 - Network|Hydrogen|Length:
         description: Length of the hydrogen pipeline.
         unit: km
