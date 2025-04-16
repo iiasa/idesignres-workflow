@@ -10,3 +10,8 @@ definitions:
       name: common-definitions
       exclude:
         - name: Price|Carbon
+  region:
+    nuts:
+      nuts-1: true
+      nuts-2: true
+      nuts-3: true
