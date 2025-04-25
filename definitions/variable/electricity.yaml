@@ -30,7 +30,8 @@
     unit: '%'
 - Final Energy|Electricity [Share]:
     description: Share of load within the specified region
-    unit: ''
+    unit: '%'
+    range: [ 0,100 ]
 - Network|Electricity|Capacity:
      description: Power transmission capacity
      unit: MW
