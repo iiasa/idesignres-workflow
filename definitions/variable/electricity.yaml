@@ -33,5 +33,5 @@
     unit: ''
 - Network|Electricity|Capacity:
      description: Power transmission capacity
-     unit: 'MW'
+     unit: MW
  
