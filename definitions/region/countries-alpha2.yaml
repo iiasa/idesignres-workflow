@@ -1,0 +1,13 @@
+# The connections between NUTS regions sometimes require NUTS-0 regions.
+# THE REGIONS DEFINED IN THIS FILE SHOULD BE USED ONLY AS from>to CONNECTIONS.
+# Use full country names for any data defined at the country level.
+- Countries (alpha-2):
+  - PL
+  - SE
+  - IE
+  - IT
+  - ES
+  - LU
+  - AT
+  - CH
+  - CZ
