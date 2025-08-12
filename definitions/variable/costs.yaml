@@ -1,0 +1,45 @@
+# This file adds needed variables for the GENeSYS-MOD data upload
+- Levelized Cost|Capex|Electricity|{Electricity Source}:
+    description: 
+    unit: MEUR_2020/PJ
+- Levelized Cost|Capex|Electricity|{Electricity Source By Technology}:
+    description: 
+    unit: MEUR_2020/PJ
+- Levelized Cost|Generation|Electricity|{Electricity Source}:
+    description: 
+    unit: MEUR_2020/PJ
+- Levelized Cost|Generation|Electricity|{Electricity Source By Technology}:
+    description: 
+    unit: MEUR_2020/PJ
+- Levelized Cost|Total (excl. Emissions)|Electricity|{Electricity Source}:
+    description: 
+    unit: MEUR_2020/PJ
+- Levelized Cost|Total (excl. Emissions)|Electricity|{Electricity Source By Technology}:
+    description: 
+    unit: MEUR_2020/PJ
+- Levelized Cost|Total (incl. Emissions)|Electricity|{Electricity Source}:
+    description: 
+    unit: MEUR_2020/PJ
+- Levelized Cost|Total (incl. Emissions)|Electricity|{Electricity Source By Technology}:
+    description: 
+    unit: MEUR_2020/PJ
+- Levelized Cost|Electricity|{Electricity Source}:
+    description: 
+    unit: MEUR_2020/PJ
+- Levelized Cost|Electricity|{Electricity Source By Technology}:
+    description: 
+    unit: MEUR_2020/PJ
+
+
+- Levelized Cost|Capex|{Sector}|{Heat Source}:
+    description: 
+    unit: MEUR_2020/PJ
+- Levelized Cost|Generation|{Sector}|{Heat Source}:
+    description: 
+    unit: MEUR_2020/PJ
+- Levelized Cost|Total (excl. Emissions)|{Sector}|{Heat Source}:
+    description: 
+    unit: MEUR_2020/PJ
+- Levelized Cost|Total (incl. Emissions)|{Sector}|{Heat Source}:
+    description: 
+    unit: MEUR_2020/PJ

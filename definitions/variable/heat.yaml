@@ -1,0 +1,14 @@
+# This file adds needed variables for the GENeSYS-MOD data upload
+- Secondary Energy|Heat|{Sector}|{Heat Source}:
+    description: Dummy
+    unit: EJ/yr
+# - Final Energy|{Sector}|{Heat Source}:
+#     description: Share of load within the specified region
+#     unit: EJ/yr
+
+- Capacity|Heat|{Sector}:
+    description: Total installed (available) capacity of Heat Sources for a specific Sector
+    unit: GW
+- Capacity|Heat|{Sector}|{Heat Source}:
+    description: Installed (available) capacity of Heat Source for a specific Sector
+    unit: GW

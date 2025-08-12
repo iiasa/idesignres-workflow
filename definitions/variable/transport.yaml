@@ -1,0 +1,5 @@
+# This file provides variables for the transportation sector
+
+- Capacity|Transportation|{Transportation Sector}|{Transport}:
+    description: Transportation fleet
+    unit: Gvkm
