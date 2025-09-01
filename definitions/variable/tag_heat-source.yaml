@@ -1,20 +1,20 @@
 - Heat Source:
-    # - Gas:
-    #     description: heat from gas
-    - Gas|CCGT|:
-        description: heat from gas
-    - Gas|CCGT|w/ CCS:
-        description: heat from gas
-    - Gas|CCGT|w/o CCS:
-        description: heat from gas
-    - Gas|OCGT|:
-        description: heat from gas
-    - Gas|OCGT|w/ CCS:
-        description: heat from gas
-    - Gas|OCGT|w/o CCS:
-        description: heat from gas
     - Gas:
-        description: heat from gas
+        description: heat from all gas 
+    - Gas|CCGT:
+        description: heat from gas in a closed cycle gas turbine 
+    - Gas|CCGT|w/ CCS:
+        description: heat from gas in a closed cycle gas turbine in combination with carbon capture
+          and storage (CCS)
+    - Gas|CCGT|w/o CCS:
+        description: heat from gas in a closed cycle gas turbine without carbon capture and storage (CCS)
+    - Gas|OCGT:
+        description: heat from gas in a open cycle gas turbine
+    - Gas|OCGT|w/ CCS:
+        description: heat from gas in a open cycle gas turbine in combination with carbon capture
+          and storage (CCS)
+    - Gas|OCGT|w/o CCS:
+        description: heat from gas in a open cycle gas turbine without carbon capture and storage (CCS)
     - Oil:
         description: heating with oil
     - Coal:
@@ -22,15 +22,17 @@
     - Coal|Lignite:
         description: heating with lignite
     - Coal|Lignite|w/ CCS:
-        description: heating with lignite
+        description: heating with lignite in combination with carbon capture
+          and storage (CCS)
     - Coal|Lignite|w/o CCS:
-        description: heating with lignite
+        description: heating with lignite without carbon capture and storage (CCS)
     - Coal|Hard Coal:
         description: heating with hard coal
     - Coal|Hard Coal|w/ CCS:
-        description: heating with hard coal
+        description: heating with hard coal in combination with carbon capture
+          and storage (CCS)
     - Coal|Hard Coal|w/o CCS:
-        description: heating with hard coal
+        description: heating with hard coal without carbon capture and storage (CCS)
 
     - Electricity:
         description: heating with electricity
@@ -54,9 +56,10 @@
     - Synthetic Methane:
         description: heating with synthetic methane
     - Synthetic Methane|w/ CCS:
-        description: heating with synthetic methane
+        description: heating with synthetic methane in combination with carbon capture
+          and storage (CCS)
     - Synthetic Methane|w/o CCS:
-        description: heating with synthetic methane
+        description: heating with synthetic methane without carbon capture and storage (CCS)
 
     - Other:
         description: other heat source

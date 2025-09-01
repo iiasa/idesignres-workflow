@@ -1,6 +1,6 @@
 # This file adds needed variables for the GENeSYS-MOD data upload
 - Secondary Energy|Heat|{Sector}|{Heat Source}:
-    description: Dummy
+    description: Net heat generation from {Heat Source} in a specific {Sector}
     unit: EJ/yr
 # - Final Energy|{Sector}|{Heat Source}:
 #     description: Share of load within the specified region

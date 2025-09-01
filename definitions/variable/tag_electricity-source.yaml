@@ -53,14 +53,14 @@
         description: coal (lignite) power plants without carbon capture and storage
     - Coal|Lignite|w/o CCS:
         description: coal (lignite) power plants without carbon capture and storage
-    - Waste:
-        description: waste-to-energy plants
     - Coal|Hard Coal:
         description: coal (hard coal) power plants
     - Coal|Hard Coal|w/ CCS:
         description: coal power plants with carbon capture and storage
     - Coal|Hard Coal|w/o CCS:
         description: coal power plants without carbon capture and storage
+    - Waste:
+        description: waste-to-energy plants
     - Electricity Storage:
         description: electricity storage systems
     - Electricity Storage|Lithium-Ion:
