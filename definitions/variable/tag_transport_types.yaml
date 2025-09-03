@@ -38,8 +38,8 @@
   - Road|Electric|Fuel Cell:
       description: road-based transportation technologies using fuel cell electric vehicles
 
-  - Road|Electric|Overhead:
-      description: road-based transportation technologies using electricity via overhead trolley trucks
+  - Road|Electric|Catenary:
+      description: road-based transportation technologies using electricity via overhead  catenary trucks
 
   - Road|Plugin Hybrid:
       description: road-based transportation technologies using plugin hybrid vehicles
@@ -53,14 +53,14 @@
   - Road|Internal Combustion Engine|Oil:
       description: road-based transportation technologies using oil-products in internal combustion engines
 
-  - Air:
+  - Aviation:
       description: air-based transportation technologies
 
-  - Air|Biofuels:
+  - Aviation|Biofuels:
       description: air-based transportation technologies using biofuels
 
-  - Air|Hydrogen:
+  - Aviation|Hydrogen:
       description: air-based transportation technologies using hydrogen
 
-  - Air|Oil:
+  - Aviation|Oil:
       description: air-based transportation technologies using oil products

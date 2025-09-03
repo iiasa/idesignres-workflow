@@ -37,7 +37,8 @@
     - Electricity:
         description: heating with electricity
     - Electricity|Direct:
-        description: direct electric heating
+        description: heating with electricity without using intermediate energy carriers 
+            (e.g. resistance heating, electric arc furnace in industrial processes)
     - Electricity|Heat Pump:
         description: heating with heat pumps
     - Electricity|Heat Pump|Ground Sourced:
@@ -50,16 +51,19 @@
     - Geothermal:
         description: heating with geothermal energy
     - Hydrogen:
-        description: heating with Hydrogen
+        description: heating with hydrogen  
     - Solar:
         description: solar thermal heating
     - Synthetic Methane:
-        description: heating with synthetic methane
+        description: heating with synthetic methane (power-to-gas, e.g. from hydrogen)
     - Synthetic Methane|w/ CCS:
-        description: heating with synthetic methane in combination with carbon capture
+        description: heating with synthetic methane (power-to-gas, e.g. from hydrogen) in combination with carbon capture
           and storage (CCS)
     - Synthetic Methane|w/o CCS:
-        description: heating with synthetic methane without carbon capture and storage (CCS)
+        description: heating with synthetic methane (power-to-gas, e.g. from hydrogen) without carbon capture and storage (CCS)
+    - Biomethane:
+        description: heating with biomethane (produced from biomass)
+
 
     - Other:
         description: other heat source

@@ -1,5 +1,5 @@
 # This file provides variables for the transportation sector
 
 - Capacity|Transportation|{Transportation Sector}|{Transport}:
-    description: Transportation fleet
+    description: Transportation fleet in freight or passenger transportation for different modes of transportation
     unit: Gvkm

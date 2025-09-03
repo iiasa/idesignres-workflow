@@ -36,11 +36,11 @@
     - Oil|Steam Turbine|w/o CCS:
         description: steam turbine turbine without carbon capture and storage
     - Oil|Internal Combustion:
-        description: Internal combustion engine
+        description: internal combustion engine
     - Oil|Internal Combustion|w/ CCS:
-        description: Internal combustion engine with carbon capture and storage
+        description: internal combustion engine with carbon capture and storage
     - Oil|Internal Combustion|w/o CCS:
-        description: Internal combustion engine without carbon capture and storage
+        description: internal combustion engine without carbon capture and storage
     - Hydro|Reservoir:
         description: hydroelectric power plants with reservoirs
     - Hydro|Run of River:
