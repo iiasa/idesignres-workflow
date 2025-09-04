@@ -15,7 +15,7 @@ definitions:
       nuts-1: true
       nuts-2: true
       nuts-3: true
-time:
+time_domain:
   year: true
   datetime: true
   timezone: UTC+01:00
