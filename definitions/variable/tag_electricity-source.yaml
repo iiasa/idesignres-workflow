@@ -1,47 +1,79 @@
 - Electricity Source By Technology:
+    - Gas|CCGT:
+        description: combined-cycle gas turbine
     - Gas|CCGT|w/ CCS:
         description: combined-cycle gas turbine with carbon capture and storage
     - Gas|CCGT|w/o CCS:
         description: combined-cycle gas turbine turbine without carbon capture and storage
+    - Gas|OCGT:
+        description: open-cycle gas turbine
     - Gas|OCGT|w/ CCS:
         description: open-cycle gas turbine with carbon capture and storage
     - Gas|OCGT|w/o CCS:
         description: open-cycle gas turbine turbine without carbon capture and storage
+    - Gas|Steam Turbine:
+        description: steam turbine
     - Gas|Steam Turbine|w/ CCS:
         description: steam turbine with carbon capture and storage
     - Gas|Steam Turbine|w/o CCS:
         description: steam turbine without carbon capture and storage
+    - Oil|CCGT:
+        description: combined-cycle gas turbine with oil
     - Oil|CCGT|w/ CCS:
         description: combined-cycle gas turbine with carbon capture and storage
     - Oil|CCGT|w/o CCS:
         description: combined-cycle gas turbine turbine without carbon capture and storage
+    - Oil|OCGT:
+        description: open-cycle gas turbine with oil
     - Oil|OCGT|w/ CCS:
         description: open-cycle gas turbine with carbon capture and storage
     - Oil|OCGT|w/o CCS:
         description: open-cycle gas turbine turbine without carbon capture and storage
+    - Oil|Steam Turbine:
+        description: steam turbine with oil
     - Oil|Steam Turbine|w/ CCS:
         description: steam turbine with carbon capture and storage
     - Oil|Steam Turbine|w/o CCS:
         description: steam turbine turbine without carbon capture and storage
+    - Oil|Internal Combustion:
+        description: internal combustion engine
     - Oil|Internal Combustion|w/ CCS:
-        description: Internal combustion engine with carbon capture and storage
+        description: internal combustion engine with carbon capture and storage
     - Oil|Internal Combustion|w/o CCS:
-        description: Internal combustion engine without carbon capture and storage
+        description: internal combustion engine without carbon capture and storage
     - Hydro|Reservoir:
         description: hydroelectric power plants with reservoirs
     - Hydro|Run of River:
         description: hydroelectric power plants without reservoirs
     - Hydro|Pumped Storage:
         description: Pumped storage hydro-power unit
+    - Coal|Lignite:
+        description: coal (lignite) power plants
     - Coal|Lignite|w/ CCS:
         description: coal (lignite) power plants without carbon capture and storage
     - Coal|Lignite|w/o CCS:
         description: coal (lignite) power plants without carbon capture and storage
-    - Waste:
-        description: waste-to-energy plants
+    - Coal|Hard Coal:
+        description: coal (hard coal) power plants
     - Coal|Hard Coal|w/ CCS:
         description: coal power plants with carbon capture and storage
     - Coal|Hard Coal|w/o CCS:
         description: coal power plants without carbon capture and storage
+    - Waste:
+        description: waste-to-energy plants
     - Electricity Storage:
         description: electricity storage systems
+    - Electricity Storage|Lithium-Ion:
+        description: Lithium-Ion battery storage
+    - Electricity Storage|Redox Flow:
+        description: Redox Flow battery storage
+    - Electricity Storage|Compressed Air:
+        description: Compressed air electricity storage
+    - Electricity Storage|Pumped Storage:
+        description: Pumped hydro electricity
+    - Hydrogen|Fuel Cell:
+        description: fuel cell for electricity generation
+    - Synthetic Methane|w/ CCS:
+        description: gas turbine with synthetic methane with CCS
+    - Synthetic Methane|w/o CCS:
+        description: gas turbine with synthetic methane without CCS

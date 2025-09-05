@@ -1,0 +1,39 @@
+# This file adds needed variables for the GENeSYS-MOD data upload
+- Levelized Cost|Capital Expenditure|Electricity|{Electricity Source}:
+    description: 
+    unit: million EUR_2020/PJ
+- Levelized Cost|Capital Expenditure|Electricity|{Electricity Source By Technology}:
+    description: 
+    unit: million EUR_2020/PJ
+- Levelized Cost|Generation|Electricity|{Electricity Source}:
+    description: 
+    unit: million EUR_2020/PJ
+- Levelized Cost|Generation|Electricity|{Electricity Source By Technology}:
+    description: 
+    unit: million EUR_2020/PJ
+- Levelized Cost|Total (excl. Emissions)|Electricity|{Electricity Source}:
+    description: 
+    unit: million EUR_2020/PJ
+- Levelized Cost|Total (excl. Emissions)|Electricity|{Electricity Source By Technology}:
+    description: 
+    unit: million EUR_2020/PJ
+- Levelized Cost|Total (incl. Emissions)|Electricity|{Electricity Source}:
+    description: 
+    unit: million EUR_2020/PJ
+- Levelized Cost|Total (incl. Emissions)|Electricity|{Electricity Source By Technology}:
+    description: 
+    unit: million EUR_2020/PJ
+
+
+- Levelized Cost|Capital Expenditure|{Sector}|{Heat Source}:
+    description: 
+    unit: million EUR_2020/PJ
+- Levelized Cost|Generation|{Sector}|{Heat Source}:
+    description: 
+    unit: million EUR_2020/PJ
+- Levelized Cost|Total (excl. Emissions)|{Sector}|{Heat Source}:
+    description: 
+    unit: million EUR_2020/PJ
+- Levelized Cost|Total (incl. Emissions)|{Sector}|{Heat Source}:
+    description: 
+    unit: million EUR_2020/PJ
