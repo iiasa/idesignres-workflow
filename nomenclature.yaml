@@ -18,4 +18,3 @@ definitions:
 time_domain:
   year: true
   datetime: true
-  timezone: UTC+01:00
