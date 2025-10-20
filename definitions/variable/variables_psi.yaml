@@ -1,0 +1,23 @@
+# This file adds needed variables for linking common input data and outputs from GEOMEC to JRC-EU-TIMES-OP 
+# For iDesignRES project
+
+# Common data inputs
+
+- Ramp up|Electricity|{Electricity Source By Technology}:
+     description: Technical ramp-up rate to increase the power output of {Electricity Source By Technology}
+     unit: '%'
+- Ramp down|Electricity|{Electricity Source By Technology}:
+     description: Technical ramp-down rate to decrease the power output of {Electricity Source By Technology}
+     unit: '%'
+- Ramp up|Electricity|{Electricity Source}:
+     description: Technical ramp-up rate to increase the power output of {Electricity Source}
+     unit: '%'
+- Ramp down|Electricity|{Electricity Source}:
+     description: Technical ramp-down rate to decrease the power output of {Electricity Source}
+     unit: '%'
+
+# GEOMEC outputs for JRC-EU-TIMES-OP
+  
+- Network|CO2|Capacity:
+    description: CO2 pipeline capacity
+    unit: Mt/h
