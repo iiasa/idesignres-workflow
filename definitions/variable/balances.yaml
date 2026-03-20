@@ -1,14 +1,14 @@
 # Yaml file to add variables needed to complete the calibration of base year
 - Imports|Electricity:
-    description: Imported electricity
+    description: Gross electricity imports
     unit: GWh
 
 - Imports|Heat:
-    description: Imported heat
+    description: Gross heat imports
     unit: GWh
 
 - Imports|Natural Gas:
-    description: Imported natural gas
+    description: gross natural gas imports
     unit: GWh
     
 - Final Energy|Energy Sector|Electricity:
@@ -32,14 +32,14 @@
     unit: GWh
     
 - Exports|Electricity:
-    description: Exported electricity
+    description: Gross electricity exports
     unit: GWh
 
 - Exports|Heat:
-    description: Exported heat
+    description: Gross heat exports
     unit: GWh
 
 - Exports|Natural Gas:
-    description: Exported natural gas
+    description: Gross natural gas exports
     unit: GWh
     

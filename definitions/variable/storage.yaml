@@ -1,0 +1,5 @@
+# This yaml file adds needed variables for E3M´s model data upload 
+
+- Secondary Energy|Electricity|Electricity Storage|Lithium-Ion:
+     description: Net electricity generation from discharge of Lithium-Ion batteries
+     unit: EJ/yr

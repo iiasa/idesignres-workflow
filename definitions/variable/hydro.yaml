@@ -1,0 +1,13 @@
+# This yaml file adds needed variables for E3M´s model data upload for hydro production
+
+- Secondary Energy|Electricity|Hydro|Pumped Storage:
+    description: Net electricity generation from Pumped Storage hydro power
+    unit: GWh
+
+- Secondary Energy|Electricity|Hydro|Run of River:
+    description: Net electricity generation from Run of River hydro power
+    unit: GWh
+
+- Secondary Energy|Electricity|Hydro|Reservoir:
+    description: Net electricity generation from reservoir hydro power
+    unit: Gwh
