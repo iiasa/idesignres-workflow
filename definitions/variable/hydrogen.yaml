@@ -1,7 +1,7 @@
 # This yaml file adds needed variables for E3M´s model data upload
 
 - Capacity|Hydrogen|Electricity|Alkaline:
-    description: Installed (available) capacity to produce hydrogen from electrolysis using an Alkaline elecrolyser
+    description: Installed (available) capacity to produce hydrogen from electrolysis using an Alkaline electrolyser
     unit: GW
 
 - Capacity|Hydrogen|Electricity|PEM:

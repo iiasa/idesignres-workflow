@@ -27,7 +27,7 @@
     description: Losses due to transmission and distribution of heat
     unit: GWh
 
-- Distribution Losses|Natural gas:
+- Distribution Losses|Natural Gas:
     description: Losses due to transmission and distribution of natural gas
     unit: GWh
     
@@ -42,4 +42,3 @@
 - Exports|Natural Gas:
     description: Gross natural gas exports
     unit: GWh
-    

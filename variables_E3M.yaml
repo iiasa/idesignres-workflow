@@ -16,6 +16,5 @@
     unit: GW
 
 - Trade|CO2:
-    description: Net exports of CO2 in Mt
+    description: Net exports of CO2
     unit: Mt CO2
-    
