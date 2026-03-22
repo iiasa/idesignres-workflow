@@ -22,3 +22,43 @@
 - Capacity|Combined Heat and Power|Biomass:
     description: Capacity of installed combined heat and power by Biomass
     unit: GW
+
+- Secondary Energy|Electricity|Combined Heat and Power|Biomass:
+    description: Net electricity generation from CHP plants using biomass
+    unit: GWh
+
+- Secondary Energy|Electricity|Combined Heat and Power|Coal:
+    description: Net electricity generation from CHP plants using coal
+    unit: GWh
+
+- Secondary Energy|Electricity|Combined Heat and Power|Oil:
+    description: Net heat generation from CHP plants using Oil
+    unit: GWh
+
+- Secondary Energy|Electricity|Combined Heat and Power|Gas|CCGT:
+    description: Net heat generation from CHP plants using CCGT 
+    unit: GWh
+
+- Secondary Energy|Electricity|Combined Heat and Power|Gas|OCGT:
+    description: Net heat generation from CHP plants using OCGT 
+    unit: GWh
+
+- Secondary Energy|Heat|Combined Heat and Power|Biomass:
+    description: Net electricity generation from CHP plants using biomass
+    unit: GWh
+
+- Secondary Energy|Heat|Combined Heat and Power|Coal:
+    description: Net electricity generation from CHP plants using coal
+    unit: GWh
+
+- Secondary Energy|Heat|Combined Heat and Power|Oil:
+    description: Net electricity generation from CHP plants using oil
+    unit: GWh
+
+- Secondary Energy|Heat|Combined Heat and Power|Gas|CCGT:
+    description: Net electricity generation from CHP using CCGT
+    unit: GWh
+
+- Secondary Energy|Heat|Combined Heat and Power|Gas|OCGT:
+    description: Net electricity generation from CHP plants using OCGT
+    unit: GWh
