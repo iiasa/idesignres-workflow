@@ -1,6 +1,7 @@
 dimensions:
   - variable
   - region
+  - subannual
 repositories:
   common-definitions:
     url: https://github.com/IAMconsortium/common-definitions.git/
