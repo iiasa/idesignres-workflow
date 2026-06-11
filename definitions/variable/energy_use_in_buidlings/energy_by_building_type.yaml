@@ -1,0 +1,23 @@
+- Final Energy|Residential|{Residential Building Type}:
+    description: Final energy consumption in {Residential Building Type}
+    unit: EJ/yr
+- Final Energy|Residential|{Residential Building Type}|{Building Energy Carrier}:
+    description: Final energy consumption of {Building Energy Carrier}
+      in {Residential Building Type}
+    unit: EJ/yr
+- Final Energy|Commercial|{Service Type}:
+    description: Final energy consumption in {Service Type}
+    unit: EJ/yr
+- Final Energy|Commercial|{Service Type}|{Building Energy Carrier}:
+    description: Final energy consumption of {Building Energy Carrier}
+      in {Service Type}
+    unit: EJ/yr
+
+- Emissions|CO2|Energy|Demand|Residential|{Residential Building Type}:
+    description: Emissions of carbon dioxide (CO2) from fuel combustion
+      in {Residential Building Type}
+    unit: Mt CO2/yr
+- Emissions|CO2|Energy|Demand|Commercial|{Service Type}:
+    description: Emissions of carbon dioxide (CO2) from fuel combustion
+      in {Service Type}
+    unit: Mt CO2/yr

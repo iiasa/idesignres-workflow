@@ -1,0 +1,13 @@
+- Service Type:
+    - Education:
+        description: school building
+    - Hotels and Restaurants:
+        description: hotels and restaurants
+    - Offices:
+        description: office buildings
+    - Sport:
+        description: sport facilities
+    - Trade:
+        description: shops
+    - Other Sector:
+        description: other commercial buildings

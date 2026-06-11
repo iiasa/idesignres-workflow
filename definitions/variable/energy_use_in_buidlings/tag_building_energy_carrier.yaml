@@ -1,0 +1,5 @@
+- Building Energy Carrier:
+    - Electricity:
+        description: electricity
+    - Gases:
+        description: gaseous fuels not including hydrogen
