@@ -1,8 +1,8 @@
 - Service Type:
     - Education:
         description: school buildings
-    - Hospitals:
-        description: hospitals
+    - Health:
+        description: hospitals and medical care facilities
     - Hotels and Restaurants:
         description: hotels and restaurants
     - Offices:
