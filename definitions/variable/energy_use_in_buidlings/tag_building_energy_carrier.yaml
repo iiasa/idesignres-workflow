@@ -1,0 +1,32 @@
+- Building Energy Carrier:
+    - Electricity:
+        description: electricity
+    - Liquids:
+        description: refined liquid fuels including oil products, fuels from gas and coal,
+          synthetic fuels and biofuels
+    - Liquids|Biomass:
+        description: liquid fuels from biomass
+    - Liquids|Oil:
+        description: liquid fuels from refined crude oil
+    - Liquids|Gas:
+        description: liquid fuels from fossil methane ('natural gas')
+    - Solids:
+        description: solid energy carriers, including coal, briquettes, coke,
+          and wood pellets
+    - Solids|Biomass:
+        description: solid biomass (e.g., commercial charcoal, wood chips, wood pellets)
+    - Solids|Coal:
+        description: coal, lignite, and derived products (e.g., coke, briquettes)
+    - Gases:
+        description: gaseous fuels not including hydrogen
+    - Gases|Biomass:
+        description: gaseous fuels from biogenic sources, mainly biogas
+        tier: ^1
+    - Gases|Gas:
+        description: fossil methane ('natural gas')
+    - Hydrogen:
+        description: hydrogen
+    - Heat:
+        description: centralized heat
+    - Solar Thermal:
+        description: solar thermal heat
