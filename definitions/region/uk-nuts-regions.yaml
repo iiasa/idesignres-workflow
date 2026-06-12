@@ -1,0 +1,45 @@
+# UK NUTS regions are no longer available in the 2024 edition of the NUTS classification
+# and are therefore not included in the pysquirrel and nomenclature packages.
+# This file adds the legacy UK NUTS regions manually.
+- NUTS 2 regions (2024 edition):
+  - UKM8
+  - UKN0
+  - UKD3
+  - UKK3
+  - UKM5
+  - UKE3
+  - UKG2
+  - UKK1
+  - UKF3
+  - UKH1
+  - UKE4
+  - UKJ3
+  - UKG3
+  - UKD7
+  - UKI5
+  - UKG1
+  - UKI6
+  - UKK2
+  - UKE1
+  - UKF2
+  - UKC2
+  - UKL2
+  - UKD4
+  - UKD1
+  - UKM7
+  - UKJ2
+  - UKI4
+  - UKJ1
+  - UKH3
+  - UKE2
+  - UKC1
+  - UKK4
+  - UKM9
+  - UKH2
+  - UKI3
+  - UKF1
+  - UKM6
+  - UKJ4
+  - UKD6
+  - UKI7
+  - UKL1
