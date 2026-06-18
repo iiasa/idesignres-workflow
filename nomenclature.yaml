@@ -10,6 +10,9 @@ definitions:
     repository:
       name: common-definitions
       exclude:
+        # power generation redefined with unit GWh/h for subannual reporting
+        - name: Secondary Energy|Electricity*
+        # carbon price redefined with unit EUR_2020/t CO2
         - name: Price|Carbon
   region:
     nuts:
