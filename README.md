@@ -58,6 +58,14 @@ Please make sure to follow the instructions completely, both the _Model mapping_
 4. Set [@danielhuppmann](https://github.com/danielhuppmann) and [@phackstock](https://github.com/phackstock) as reviewers.
 5. Once everything is in order we will merge your pull request and your model will be registered.
 
+## Reporting of subannual timeseries
+
+This project supports reporting of timeseries with yearly, datetime and categorical
+timesteps (see [subannual](subannual) for definitions of categorical timeslices).
+For subannual resolution of power generation, the unit `GWh/h` should be used, while
+`EJ/yr` should be used for yearly reporting for consistency and comparability with
+other projects.
+
 ### Workflow
 
 The module `workflow.py` has a function `main(df: pyam.IamDataFrame) -> pyam.IamDataFrame:`.
