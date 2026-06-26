@@ -21,7 +21,7 @@ definitions:
       nuts-3: true
 processors:
   nuts:
-    - JRC-EU-TIMES-OP 0.1.0
+    - JRC-EU-TIMES-OP North Sea 0.1.0
 time_domain:
   year: true
   datetime: true
