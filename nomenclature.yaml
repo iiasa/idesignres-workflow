@@ -22,6 +22,7 @@ definitions:
 processors:
   nuts:
     - JRC-EU-TIMES-OP North Sea 0.1.0
+    - EnergyModelsX v0.10
 time_domain:
   year: true
   datetime: true
