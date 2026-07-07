@@ -23,7 +23,6 @@ processors:
   nuts:
     - JRC-EU-TIMES-OP North Sea 0.1.0
     - EnergyModelsX v0.10
-time_domain:
+time-domain:
   year: true
   datetime: true
-  timezone: UTC+00:00
