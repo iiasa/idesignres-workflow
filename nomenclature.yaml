@@ -26,3 +26,4 @@ processors:
 time_domain:
   year: true
   datetime: true
+  timezone: UTC+00:00
