@@ -1,0 +1,44 @@
+# Yaml file to add variables needed to complete the calibration of base year
+- Imports|Electricity:
+    description: Gross electricity imports
+    unit: GWh
+
+- Imports|Heat:
+    description: Gross heat imports
+    unit: GWh
+
+- Imports|Natural Gas:
+    description: gross natural gas imports
+    unit: GWh
+    
+- Final Energy|Energy Sector|Electricity:
+    description: Demand of electricity of the energy sector excluding the self consumption 
+    unit: GWh
+
+- Final Energy|Energy Sector|Heat:
+    description: Demand of heat of the energy sector excluding the self consumption
+    unit: GWh
+
+- Distribution Losses|Electricity:
+    description: Losses due to transmission and distribution of electricity
+    unit: GWh
+    
+- Distribution Losses|Heat:
+    description: Losses due to transmission and distribution of heat
+    unit: GWh
+
+- Distribution Losses|Natural Gas:
+    description: Losses due to transmission and distribution of natural gas
+    unit: GWh
+    
+- Exports|Electricity:
+    description: Gross electricity exports
+    unit: GWh
+
+- Exports|Heat:
+    description: Gross heat exports
+    unit: GWh
+
+- Exports|Natural Gas:
+    description: Gross natural gas exports
+    unit: GWh

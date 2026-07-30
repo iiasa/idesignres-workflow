@@ -1,0 +1,69 @@
+- Heat Source:
+    - Gas:
+        description: heat from all gas 
+    - Gas|CCGT:
+        description: heat from gas in a closed cycle gas turbine 
+    - Gas|CCGT|w/ CCS:
+        description: heat from gas in a closed cycle gas turbine in combination with carbon capture
+          and storage (CCS)
+    - Gas|CCGT|w/o CCS:
+        description: heat from gas in a closed cycle gas turbine without carbon capture and storage (CCS)
+    - Gas|OCGT:
+        description: heat from gas in a open cycle gas turbine
+    - Gas|OCGT|w/ CCS:
+        description: heat from gas in a open cycle gas turbine in combination with carbon capture
+          and storage (CCS)
+    - Gas|OCGT|w/o CCS:
+        description: heat from gas in a open cycle gas turbine without carbon capture and storage (CCS)
+    - Oil:
+        description: heating with oil
+    - Coal:
+        description: heating with coal
+    - Coal|Lignite:
+        description: heating with lignite
+    - Coal|Lignite|w/ CCS:
+        description: heating with lignite in combination with carbon capture
+          and storage (CCS)
+    - Coal|Lignite|w/o CCS:
+        description: heating with lignite without carbon capture and storage (CCS)
+    - Coal|Hard Coal:
+        description: heating with hard coal
+    - Coal|Hard Coal|w/ CCS:
+        description: heating with hard coal in combination with carbon capture
+          and storage (CCS)
+    - Coal|Hard Coal|w/o CCS:
+        description: heating with hard coal without carbon capture and storage (CCS)
+
+    - Electricity:
+        description: heating with electricity
+    - Electricity|Direct:
+        description: heating with electricity without using intermediate energy carriers 
+            (e.g. resistance heating, electric arc furnace in industrial processes)
+    - Electricity|Heat Pump:
+        description: heating with heat pumps
+    - Electricity|Heat Pump|Ground Sourced:
+        description: heating with ground sourced heat pumps
+    - Electricity|Heat Pump|Air Sourced:
+        description: heating with air sourced heat pumps
+
+    - Biomass:
+        description: heating with biomass
+    - Geothermal:
+        description: heating with geothermal energy
+    - Hydrogen:
+        description: heating with hydrogen  
+    - Solar:
+        description: solar thermal heating
+    - Synthetic Methane:
+        description: heating with synthetic methane (power-to-gas, e.g. from hydrogen)
+    - Synthetic Methane|w/ CCS:
+        description: heating with synthetic methane (power-to-gas, e.g. from hydrogen) in combination with carbon capture
+          and storage (CCS)
+    - Synthetic Methane|w/o CCS:
+        description: heating with synthetic methane (power-to-gas, e.g. from hydrogen) without carbon capture and storage (CCS)
+    - Biomethane:
+        description: heating with biomethane (produced from biomass)
+
+
+    - Other:
+        description: other heat source

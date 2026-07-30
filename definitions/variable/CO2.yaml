@@ -1,0 +1,6 @@
+# This yaml file adds needed variables for E3M´s model data upload
+
+- Capacity|Carbon Capture|Direct Air Capture:
+    description: Installed (available) capacity to extract CO2 from the atmosphere
+      using Direct Air Capture (DAC)
+    unit: Mt CO2

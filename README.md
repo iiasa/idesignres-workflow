@@ -1,6 +1,6 @@
 # iDesignRES Scenario Processing Workflow
 
-Copyright 2024 IIASA and the iDesignRES consortium
+Copyright 2024-2025 IIASA and the iDesignRES consortium
 
 This work is licensed under <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0</a> <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"></a>
 
@@ -32,6 +32,11 @@ to faciliate interoperability and reuse of scenario data.
 > the definitions for this project are available for download as an xlsx spreadsheet
 > at http://files.ece.iiasa.ac.at/idesignres/idesignres-template.xlsx.
 
+> [!IMPORTANT]
+> This workflow repository uses definitions and region mappings from the
+> [common-definitions](https://github.com/IAMconsortium/common-definitions) repository.  
+> Check out [nomenclature.yaml](nomenclature.yaml) for the specific configuration.
+
 ### Project nomenclature
 
 The folder `definitions` can contain the project-specific codelists, i.e., list of allowed
@@ -52,6 +57,14 @@ Please make sure to follow the instructions completely, both the _Model mapping_
 
 4. Set [@danielhuppmann](https://github.com/danielhuppmann) and [@phackstock](https://github.com/phackstock) as reviewers.
 5. Once everything is in order we will merge your pull request and your model will be registered.
+
+## Reporting of subannual timeseries
+
+This project supports reporting of timeseries with yearly, datetime and categorical
+timesteps (see [subannual](subannual) for definitions of categorical timeslices).
+For subannual resolution of power generation, the unit `GWh/h` should be used, while
+`EJ/yr` should be used for yearly reporting for consistency and comparability with
+other projects.
 
 ### Workflow
 

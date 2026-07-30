@@ -1,6 +1,7 @@
 dimensions:
   - variable
   - region
+  - subannual
 repositories:
   common-definitions:
     url: https://github.com/IAMconsortium/common-definitions.git/
@@ -9,13 +10,19 @@ definitions:
     repository:
       name: common-definitions
       exclude:
+        # power generation redefined with unit GWh/h for subannual reporting
+        - name: Secondary Energy|Electricity*
+        # carbon price redefined with unit EUR_2020/t CO2
         - name: Price|Carbon
   region:
     nuts:
       nuts-1: true
       nuts-2: true
       nuts-3: true
-time:
+processors:
+  nuts:
+    - JRC-EU-TIMES-OP North Sea 0.1.0
+    - EnergyModelsX v0.10
+time-domain:
   year: true
   datetime: true
-  timezone: UTC+01:00

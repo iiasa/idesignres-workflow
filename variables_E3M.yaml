@@ -1,0 +1,20 @@
+# Yaml file to add the extra variables needed for E3M's GeoMEC
+- Capacity|Combined Heat and Power|Coal:
+    description: Capacity of installed combined heat and power by Coal
+    unit: GW
+
+- Capacity|Combined Heat and Power|Gas:
+    description: Capacity of installed combined heat and power by Gas
+    unit: GW
+
+- Capacity|Combined Heat and Power|Oil:
+    description: Capacity of installed combined heat and power by Oil
+    unit: GW
+    
+- Capacity|Combined Heat and Power|Biomass:
+    description: Capacity of installed combined heat and power by Biomass
+    unit: GW
+
+- Trade|CO2:
+    description: Net exports of CO2
+    unit: Mt CO2

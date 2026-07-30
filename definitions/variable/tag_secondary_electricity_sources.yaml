@@ -84,11 +84,11 @@
     - Gas|w/o CCS:
         description: natural gas (fossil methane) without carbon capture and storage (CCS)
     - Coal:
-        description: coal including lignite
+        description: coal including lignite and hard coal
     - Coal|w/ CCS:
-        description: coal including lignite in combination with carbon capture and
+        description: coal including lignite and hard coal in combination with carbon capture and
           storage (CCS)
     - Coal|w/o CCS:
-        description: coal including lignite without carbon capture and storage (CCS)
+        description: coal including lignite and hard coal without carbon capture and storage (CCS)
     - Other:
         description: sources that do not fit any other category

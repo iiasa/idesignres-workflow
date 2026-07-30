@@ -18,3 +18,12 @@
     - EMPIRE v1.0.0/v51|North Sea|Utsira Nord
     - EMPIRE v1.0.0/v51|North Sea|Sorlige Nordsjo I
     - EMPIRE v1.0.0/v51|North Sea|Sorlige Nordsjo II
+# these regions are only defined to enable the validation of directional regions
+# they should not be used in reporting
+    - EMPIRE v1.0.0/v51|Belgium
+    - EMPIRE v1.0.0/v51|Denmark
+    - EMPIRE v1.0.0/v51|Finland
+    - EMPIRE v1.0.0/v51|Germany
+    - EMPIRE v1.0.0/v51|United Kingdom
+    - EMPIRE v1.0.0/v51|Netherlands
+    - EMPIRE v1.0.0/v51|Sweden
