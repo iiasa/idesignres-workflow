@@ -62,7 +62,7 @@ Please make sure to follow the instructions completely, both the _Model mapping_
 
 This project supports reporting of timeseries with yearly, datetime and categorical
 timesteps (see [subannual](subannual) for definitions of categorical timeslices).
-For subannual resolution of power generation, the unit `GWh/h` should be used, while
+For subannual resolution of power generation, the unit `MWh/h` should be used, while
 `EJ/yr` should be used for yearly reporting for consistency and comparability with
 other projects.
 
