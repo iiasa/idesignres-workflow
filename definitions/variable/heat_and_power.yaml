@@ -22,3 +22,51 @@
 - Capacity|Combined Heat and Power|Biomass:
     description: Capacity of installed combined heat and power by Biomass
     unit: GW
+ 
+- Secondary Energy|Heat|Combined Heat and Power|Coal:
+    description: Heat production from combined heat and power plant: Coal
+    unit: GWh/h
+
+- Secondary Energy|Heat|Combined Heat and Power|Gas:
+    description: Heat production from combined heat and power plant: Gas
+    unit: GWh/h
+
+- Secondary Energy|Heat|Combined Heat and Power|Gas|OCGT:
+    description: Heat production from combined heat and power plant: Gas/OCGT
+    unit: GWh/h
+
+- Secondary Energy|Heat|Combined Heat and Power|Gas|CCGT:
+    description: Heat production from combined heat and power plant: Gas/CCGT
+    unit: GWh/h
+
+- Secondary Energy|Heat|Combined Heat and Power|Oil:
+    description: Heat production from combined heat and power plant: Oil
+    unit: GWh/h
+    
+- Secondary Energy|Heat|Combined Heat and Power|Biomass:
+    description: Heat production from combined heat and power plant: Biomass
+    unit: GWh/h
+ 
+- Secondary Energy|Electricity|Combined Heat and Power|Coal:
+    description: Electricity production from combined heat and power plant: Coal
+    unit: GWh/h
+
+- Secondary Energy|Electricity|Combined Heat and Power|Gas:
+    description: Electricity production from combined heat and power plant: Gas
+    unit: GWh/h
+
+- Secondary Energy|Electricity|Combined Heat and Power|Gas|OCGT:
+    description: Electricity production from combined heat and power plant: Gas/OCGT
+    unit: GWh/h
+
+- Secondary Energy|Electricity|Combined Heat and Power|Gas|CCGT:
+    description: Electricity production from combined heat and power plant: Gas/CCGT
+    unit: GWh/h
+
+- Secondary Energy|Electricity|Combined Heat and Power|Oil:
+    description: Electricity production from combined heat and power plant: Oil
+    unit: GWh/h
+    
+- Secondary Energy|Electricity|Combined Heat and Power|Biomass:
+    description: Electricity production from combined heat and power plant: Coal
+    unit: GWh/h 
