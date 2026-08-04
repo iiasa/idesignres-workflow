@@ -1,7 +1,7 @@
 from pathlib import Path
+
 import pyam
 from nomenclature import DataStructureDefinition, RegionProcessor, process
-
 
 here = Path(__file__).absolute().parent
 
