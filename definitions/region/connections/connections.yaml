@@ -280,3 +280,128 @@
   - EMPIRE v1.0.0/v51|North Sea|Sorlige Nordsjo I>North Sea|Sorlige Nordsjo II
   - EMPIRE v1.0.0/v51|North Sea|Utsira Nord>North Sea|Sorlige Nordsjo I
   - EMPIRE v1.0.0/v51|North Sea|Utsira Nord>North Sea|Sorlige Nordsjo II
+  # connections for EMPIRE v1.0.0
+  - EMPIRE v1.0.0|Belgium>North Sea|Borssele
+  - EMPIRE v1.0.0|Belgium>North Sea|Hollandsee Kust
+  - EMPIRE v1.0.0|North Sea|Borssele>Belgium
+  - EMPIRE v1.0.0|North Sea|Borssele>North Sea|Helgolander Bucht
+  - EMPIRE v1.0.0|North Sea|Borssele>North Sea|Hollandsee Kust
+  - EMPIRE v1.0.0|North Sea|Borssele>North Sea|Nordsoen
+  - EMPIRE v1.0.0|North Sea|Borssele>North Sea|Sorlige Nordsjo I
+  - EMPIRE v1.0.0|North Sea|Borssele>North Sea|Sorlige Nordsjo II
+  - EMPIRE v1.0.0|North Sea|Borssele>North Sea|Utsira Nord
+  - EMPIRE v1.0.0|Denmark>Norway|Sorland
+  - EMPIRE v1.0.0|Denmark>North Sea|Nordsoen
+  - EMPIRE v1.0.0|North Sea|Dogger Bank>North Sea|Borssele
+  - EMPIRE v1.0.0|North Sea|Dogger Bank>North Sea|East Anglia
+  - EMPIRE v1.0.0|North Sea|Dogger Bank>North Sea|Helgolander Bucht
+  - EMPIRE v1.0.0|North Sea|Dogger Bank>North Sea|Hollandsee Kust
+  - EMPIRE v1.0.0|North Sea|Dogger Bank>North Sea|Hornsea
+  - EMPIRE v1.0.0|North Sea|Dogger Bank>North Sea|Nordsoen
+  - EMPIRE v1.0.0|North Sea|Dogger Bank>North Sea|Norfolk
+  - EMPIRE v1.0.0|North Sea|Dogger Bank>North Sea|Outer Dowsing
+  - EMPIRE v1.0.0|North Sea|Dogger Bank>North Sea|Sorlige Nordsjo I
+  - EMPIRE v1.0.0|North Sea|Dogger Bank>North Sea|Sorlige Nordsjo II
+  - EMPIRE v1.0.0|North Sea|Dogger Bank>North Sea|Utsira Nord
+  - EMPIRE v1.0.0|North Sea|East Anglia>North Sea|Borssele
+  - EMPIRE v1.0.0|North Sea|East Anglia>North Sea|Helgolander Bucht
+  - EMPIRE v1.0.0|North Sea|East Anglia>North Sea|Hollandsee Kust
+  - EMPIRE v1.0.0|North Sea|East Anglia>North Sea|Nordsoen
+  - EMPIRE v1.0.0|North Sea|East Anglia>North Sea|Sorlige Nordsjo I
+  - EMPIRE v1.0.0|North Sea|East Anglia>North Sea|Sorlige Nordsjo II
+  - EMPIRE v1.0.0|North Sea|East Anglia>North Sea|Utsira Nord
+  - EMPIRE v1.0.0|North Sea|Firth of Forth>North Sea|Borssele
+  - EMPIRE v1.0.0|North Sea|Firth of Forth>North Sea|Dogger Bank
+  - EMPIRE v1.0.0|North Sea|Firth of Forth>North Sea|East Anglia
+  - EMPIRE v1.0.0|North Sea|Firth of Forth>North Sea|Helgolander Bucht
+  - EMPIRE v1.0.0|North Sea|Firth of Forth>North Sea|Hollandsee Kust
+  - EMPIRE v1.0.0|North Sea|Firth of Forth>North Sea|Hornsea
+  - EMPIRE v1.0.0|North Sea|Firth of Forth>North Sea|Nordsoen
+  - EMPIRE v1.0.0|North Sea|Firth of Forth>North Sea|Norfolk
+  - EMPIRE v1.0.0|North Sea|Firth of Forth>North Sea|Outer Dowsing
+  - EMPIRE v1.0.0|North Sea|Firth of Forth>North Sea|Sorlige Nordsjo I
+  - EMPIRE v1.0.0|North Sea|Firth of Forth>North Sea|Sorlige Nordsjo II
+  - EMPIRE v1.0.0|North Sea|Firth of Forth>North Sea|Utsira Nord
+  - EMPIRE v1.0.0|Finland>Norway|Troms
+  - EMPIRE v1.0.0|Germany>North Sea|Helgolander Bucht
+  - EMPIRE v1.0.0|Germany>Norway|Sorland
+  - EMPIRE v1.0.0|United Kingdom>North Sea|Dogger Bank
+  - EMPIRE v1.0.0|United Kingdom>North Sea|East Anglia
+  - EMPIRE v1.0.0|United Kingdom>North Sea|Firth of Forth
+  - EMPIRE v1.0.0|United Kingdom>North Sea|Hornsea
+  - EMPIRE v1.0.0|United Kingdom>North Sea|Moray Firth
+  - EMPIRE v1.0.0|United Kingdom>Norway|Sorland
+  - EMPIRE v1.0.0|United Kingdom>Norway|Vestmidt
+  - EMPIRE v1.0.0|United Kingdom>North Sea|Norfolk
+  - EMPIRE v1.0.0|United Kingdom>North Sea|Outer Dowsing
+  - EMPIRE v1.0.0|North Sea|Helgolander Bucht>North Sea|Nordsoen
+  - EMPIRE v1.0.0|North Sea|Helgolander Bucht>North Sea|Sorlige Nordsjo I
+  - EMPIRE v1.0.0|North Sea|Helgolander Bucht>North Sea|Sorlige Nordsjo II
+  - EMPIRE v1.0.0|North Sea|Helgolander Bucht>North Sea|Utsira Nord
+  - EMPIRE v1.0.0|North Sea|Hollandsee Kust>North Sea|Helgolander Bucht
+  - EMPIRE v1.0.0|North Sea|Hollandsee Kust>North Sea|Nordsoen
+  - EMPIRE v1.0.0|North Sea|Hollandsee Kust>North Sea|Sorlige Nordsjo I
+  - EMPIRE v1.0.0|North Sea|Hollandsee Kust>North Sea|Sorlige Nordsjo II
+  - EMPIRE v1.0.0|North Sea|Hollandsee Kust>North Sea|Utsira Nord
+  - EMPIRE v1.0.0|North Sea|Hornsea>North Sea|Borssele
+  - EMPIRE v1.0.0|North Sea|Hornsea>North Sea|East Anglia
+  - EMPIRE v1.0.0|North Sea|Hornsea>North Sea|Helgolander Bucht
+  - EMPIRE v1.0.0|North Sea|Hornsea>North Sea|Hollandsee Kust
+  - EMPIRE v1.0.0|North Sea|Hornsea>North Sea|Nordsoen
+  - EMPIRE v1.0.0|North Sea|Hornsea>North Sea|Norfolk
+  - EMPIRE v1.0.0|North Sea|Hornsea>North Sea|Outer Dowsing
+  - EMPIRE v1.0.0|North Sea|Hornsea>North Sea|Sorlige Nordsjo I
+  - EMPIRE v1.0.0|North Sea|Hornsea>North Sea|Sorlige Nordsjo II
+  - EMPIRE v1.0.0|North Sea|Hornsea>North Sea|Utsira Nord
+  - EMPIRE v1.0.0|North Sea|Moray Firth>North Sea|Borssele
+  - EMPIRE v1.0.0|North Sea|Moray Firth>North Sea|Dogger Bank
+  - EMPIRE v1.0.0|North Sea|Moray Firth>North Sea|East Anglia
+  - EMPIRE v1.0.0|North Sea|Moray Firth>North Sea|Firth of Forth
+  - EMPIRE v1.0.0|North Sea|Moray Firth>North Sea|Helgolander Bucht
+  - EMPIRE v1.0.0|North Sea|Moray Firth>North Sea|Hollandsee Kust
+  - EMPIRE v1.0.0|North Sea|Moray Firth>North Sea|Hornsea
+  - EMPIRE v1.0.0|North Sea|Moray Firth>North Sea|Nordsoen
+  - EMPIRE v1.0.0|North Sea|Moray Firth>North Sea|Norfolk
+  - EMPIRE v1.0.0|North Sea|Moray Firth>North Sea|Outer Dowsing
+  - EMPIRE v1.0.0|North Sea|Moray Firth>North Sea|Sorlige Nordsjo I
+  - EMPIRE v1.0.0|North Sea|Moray Firth>North Sea|Sorlige Nordsjo II
+  - EMPIRE v1.0.0|North Sea|Moray Firth>North Sea|Utsira Nord
+  - EMPIRE v1.0.0|Netherlands>North Sea|Borssele
+  - EMPIRE v1.0.0|Netherlands>North Sea|Helgolander Bucht
+  - EMPIRE v1.0.0|Netherlands>North Sea|Hollandsee Kust
+  - EMPIRE v1.0.0|Netherlands>Norway|Sorland
+  - EMPIRE v1.0.0|Norway|Ostland>Norway|Sorland
+  - EMPIRE v1.0.0|Norway|Ostland>Norway|Norgemidt
+  - EMPIRE v1.0.0|Norway|Ostland>Norway|Vestmidt
+  - EMPIRE v1.0.0|Norway|Ostland>Sweden
+  - EMPIRE v1.0.0|Norway|Sorland>Norway|Vestmidt
+  - EMPIRE v1.0.0|Norway|Sorland>North Sea|Sorlige Nordsjo I
+  - EMPIRE v1.0.0|Norway|Sorland>North Sea|Sorlige Nordsjo II
+  - EMPIRE v1.0.0|Norway|Sorland>North Sea|Utsira Nord
+  - EMPIRE v1.0.0|Norway|Norgemidt>Norway|Troms
+  - EMPIRE v1.0.0|Norway|Norgemidt>Norway|Vestmidt
+  - EMPIRE v1.0.0|Norway|Norgemidt>Sweden
+  - EMPIRE v1.0.0|Norway|Troms>Sweden
+  - EMPIRE v1.0.0|North Sea|Nordsoen>North Sea|Sorlige Nordsjo I
+  - EMPIRE v1.0.0|North Sea|Nordsoen>North Sea|Sorlige Nordsjo II
+  - EMPIRE v1.0.0|North Sea|Nordsoen>North Sea|Utsira Nord
+  - EMPIRE v1.0.0|North Sea|Norfolk>North Sea|Borssele
+  - EMPIRE v1.0.0|North Sea|Norfolk>North Sea|East Anglia
+  - EMPIRE v1.0.0|North Sea|Norfolk>North Sea|Helgolander Bucht
+  - EMPIRE v1.0.0|North Sea|Norfolk>North Sea|Hollandsee Kust
+  - EMPIRE v1.0.0|North Sea|Norfolk>North Sea|Nordsoen
+  - EMPIRE v1.0.0|North Sea|Norfolk>North Sea|Sorlige Nordsjo I
+  - EMPIRE v1.0.0|North Sea|Norfolk>North Sea|Sorlige Nordsjo II
+  - EMPIRE v1.0.0|North Sea|Norfolk>North Sea|Utsira Nord
+  - EMPIRE v1.0.0|North Sea|Outer Dowsing>North Sea|Borssele
+  - EMPIRE v1.0.0|North Sea|Outer Dowsing>North Sea|East Anglia
+  - EMPIRE v1.0.0|North Sea|Outer Dowsing>North Sea|Helgolander Bucht
+  - EMPIRE v1.0.0|North Sea|Outer Dowsing>North Sea|Hollandsee Kust
+  - EMPIRE v1.0.0|North Sea|Outer Dowsing>North Sea|Nordsoen
+  - EMPIRE v1.0.0|North Sea|Outer Dowsing>North Sea|Norfolk
+  - EMPIRE v1.0.0|North Sea|Outer Dowsing>North Sea|Sorlige Nordsjo I
+  - EMPIRE v1.0.0|North Sea|Outer Dowsing>North Sea|Sorlige Nordsjo II
+  - EMPIRE v1.0.0|North Sea|Outer Dowsing>North Sea|Utsira Nord
+  - EMPIRE v1.0.0|North Sea|Sorlige Nordsjo I>North Sea|Sorlige Nordsjo II
+  - EMPIRE v1.0.0|North Sea|Utsira Nord>North Sea|Sorlige Nordsjo I
+  - EMPIRE v1.0.0|North Sea|Utsira Nord>North Sea|Sorlige Nordsjo II
