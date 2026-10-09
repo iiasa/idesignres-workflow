@@ -34,6 +34,9 @@
     - Coal|Hard Coal|w/o CCS:
         description: heating with hard coal without carbon capture and storage (CCS)
 
+    - Heat Storage:
+        description: heating storage systems
+
     - Electricity:
         description: heating with electricity
     - Electricity|Direct:
@@ -45,6 +48,8 @@
         description: heating with ground sourced heat pumps
     - Electricity|Heat Pump|Air Sourced:
         description: heating with air sourced heat pumps
+    - Electricity|Heat Pump|Large Heat Pump:
+        description: heating with large heat pumps for district heating DH 
 
     - Biomass:
         description: heating with biomass
@@ -63,7 +68,6 @@
         description: heating with synthetic methane (power-to-gas, e.g. from hydrogen) without carbon capture and storage (CCS)
     - Biomethane:
         description: heating with biomethane (produced from biomass)
-
 
     - Other:
         description: other heat source
