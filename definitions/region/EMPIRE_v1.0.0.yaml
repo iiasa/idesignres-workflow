@@ -1,0 +1,30 @@
+- EMPIRE v1.0.0:
+    - EMPIRE v1.0.0|Norway|Ostland
+    - EMPIRE v1.0.0|Norway|Sorland
+    - EMPIRE v1.0.0|Norway|Norgemidt
+    - EMPIRE v1.0.0|Norway|Troms
+    - EMPIRE v1.0.0|Norway|Vestmidt
+    - EMPIRE v1.0.0|North Sea
+    - EMPIRE v1.0.0|North Sea|Moray Firth
+    - EMPIRE v1.0.0|North Sea|Firth of Forth
+    - EMPIRE v1.0.0|North Sea|Dogger Bank
+    - EMPIRE v1.0.0|North Sea|Hornsea
+    - EMPIRE v1.0.0|North Sea|Outer Dowsing
+    - EMPIRE v1.0.0|North Sea|Norfolk
+    - EMPIRE v1.0.0|North Sea|East Anglia
+    - EMPIRE v1.0.0|North Sea|Borssele
+    - EMPIRE v1.0.0|North Sea|Hollandsee Kust
+    - EMPIRE v1.0.0|North Sea|Helgolander Bucht
+    - EMPIRE v1.0.0|North Sea|Nordsoen
+    - EMPIRE v1.0.0|North Sea|Utsira Nord
+    - EMPIRE v1.0.0|North Sea|Sorlige Nordsjo I
+    - EMPIRE v1.0.0|North Sea|Sorlige Nordsjo II
+# these regions are only defined to enable the validation of directional regions
+# they should not be used in reporting
+    - EMPIRE v1.0.0|Belgium
+    - EMPIRE v1.0.0|Denmark
+    - EMPIRE v1.0.0|Finland
+    - EMPIRE v1.0.0|Germany
+    - EMPIRE v1.0.0|United Kingdom
+    - EMPIRE v1.0.0|Netherlands
+    - EMPIRE v1.0.0|Sweden
