@@ -8,13 +8,17 @@
     description: Installed (available) capacity to produce hydrogen from electrolysis using an Proton Exchange Membrane (PEM) elecrolyser
     unit: GW
 
-- Storage Capacity|Hydrogen:
+- Capacity|Hydrogen|Electricity Storage|Hydrogen:
     description: Installed (available) capacity of hydrogen storage systems
     unit: GW
     
-- Storage Capacity|Hydrogen|Tank:
+- Capacity|Hydrogen|Electricity Storage|Tank:
     description: Installed (available) capacity of hydrogen using tanks
     unit: GW
+
+- Secondary Energy|Hydrogen|Electricity Storage|Tank:
+    description: Hydrogen inyected from tank storage unit
+    unit: GWh
 
 - Secondary Energy|Hydrogen|Electricity|Alkaline:
     description: Net hydrogen production from Alkaline electrolysers
